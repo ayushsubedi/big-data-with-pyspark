@@ -5,6 +5,7 @@
 ## Introducation to PySpark
 
 ### Getting to know PySpark
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/1_getting_to_know_pyspark)
 
  - [x]	What is Spark, anyway?
  - [x]	Using Spark in Python
@@ -17,7 +18,8 @@
  - [x]	Put some Spark in your data
  - [x]	Dropping the middle man
  
- ### Manipulating data
+ ### Manipulating data 
+ [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/2_manipulating_data)
  - [x]	Creating columns
  - [x]	SQL in a nutshell
  - [x]	SQL in a nutshell (2)
@@ -32,6 +34,7 @@
  - [x]	Joining II
 
 ### Getting started with machine learning pipelines
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/3_getting_started_with_machine_learning)
 - [ ]	Machine Learning Pipelines
 - [ ]	Join the DataFrames
 - [ ]	Data types
@@ -48,7 +51,7 @@
 - [ ]	Split the data
 
 ### Model tuning and selection
-
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/4_model_tuning_and_selection)
 - [ ]	What is logistic regression?
 - [ ]	Create the modeler
 - [ ]	Cross validation
