@@ -61,3 +61,77 @@
 - [ ]	Fit the model(s)
 - [ ]	Evaluating binary classifiers
 - [ ]	Evaluate the model
+
+# Cleaning Data with PySpark
+
+### DataFrame details
+- [ ] A review of DataFrame fundamentals and the importance of data cleaning.
+- [ ] Intro to data cleaning with Apache Spark
+- [ ] Data cleaning review
+- [ ] Immutability and lazy processing
+- [ ] Immutability review
+- [ ] Using lazy processing
+- [ ] Understanding Parquet
+- [ ] Saving a DataFrame in Parquet format
+- [ ] SQL and Parquet
+
+### Manipulating DataFrames in the real world
+- [ ] DataFrame column operations
+- [ ] Filtering column content with Python
+- [ ] Filtering Question #1
+- [ ] Filtering Question #2
+- [ ] Modifying DataFrame columns
+- [ ] Conditional DataFrame column operations
+- [ ] when() example
+- [ ] When / Otherwise
+- [ ] User defined functions
+- [ ] Understanding user defined functions
+- [ ] Using user defined functions in Spark
+- [ ] Partitioning and lazy processing
+- [ ] Adding an ID Field
+- [ ] IDs with different partitions
+- [ ] More ID tricks
+
+### Improving Performance
+- [ ] Caching
+- [ ] Caching a DataFrame
+- [ ] Removing a DataFrame from cache
+- [ ] Improve import performance
+- [ ] File size optimization
+- [ ] File import performance
+- [ ] Cluster configurations
+- [ ] Reading Spark configurations
+- [ ] Writing Spark configurations
+- [ ] Performance improvements
+- [ ] Normal joins
+- [ ] Using broadcasting on Spark joins
+- [ ] Comparing broadcast vs normal joins
+
+### Complex processing and data pipelines
+
+- [ ] Introduction to data pipelines
+- [ ] Quick pipeline
+- [ ] Pipeline data issue
+- [ ] Data handling techniques
+- [ ] Removing commented lines
+- [ ] Removing invalid rows
+- [ ] Splitting into columns
+- [ ] Further parsing
+- [ ] Data validation
+- [ ] Validate rows via join
+- [ ] Examining invalid rows
+- [ ] Final analysis and delivery
+- [ ] Dog parsing
+- [ ] Per image count
+- [ ] Percentage dog pixels
+
+
+
+
+
+
+
+
+
+
+
