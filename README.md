@@ -62,10 +62,79 @@
 - [ ]	Evaluating binary classifiers
 - [ ]	Evaluate the model
 
+# Big Data Fundamentals with PySpark
+
+### Introduction to Big Data analysis with Spark
+
+- [x] What is Big Data?
+- [x] The 3 V's of Big Data
+- [x] PySpark: Spark with Python
+- [x] Understanding SparkContext
+- [x] Interactive Use of PySpark
+- [x] Loading data in PySpark shell
+- [x] Review of functional programming in Python
+- [x] Use of lambda() with map()
+- [x] Use of lambda() with filter()
+
+### Programming in PySpark RDD’s
+
+- [ ] Abstracting Data with RDDs
+- [ ] RDDs from Parallelized collections
+- [ ] RDDs from External Datasets
+- [ ] Partitions in your data
+- [ ] Basic RDD Transformations and Actions
+- [ ] Map and Collect
+- [ ] Filter and Count
+- [ ] Pair RDDs in PySpark
+- [ ] ReduceBykey and Collect
+- [ ] SortByKey and Collect
+- [ ] Advanced RDD Actions
+- [ ] CountingBykeys
+- [ ] Create a base RDD and transform it
+- [ ] Remove stop words and reduce the dataset
+- [ ] Print word frequencies
+
+### PySpark SQL & DataFrames
+
+- [ ] Abstracting Data with DataFrames
+- [ ] RDD to DataFrame
+- [ ] Loading CSV into DataFrame
+- [ ] Operating on DataFrames in PySpark
+- [ ] Inspecting data in PySpark DataFrame
+- [ ] PySpark DataFrame subsetting and cleaning
+- [ ] Filtering your DataFrame
+- [ ] Interacting with DataFrames using PySpark SQL
+- [ ] Running SQL Queries Programmatically
+- [ ] SQL queries for filtering Table
+- [ ] Data Visualization in PySpark using DataFrames
+- [ ] PySpark DataFrame visualization
+- [ ] Part 1: Create a DataFrame from CSV file
+- [ ] Part 2: SQL Queries on DataFrame
+- [ ] Part 3: Data visualization
+
+
+### Machine Learning with PySpark MLlib
+- [ ] Overview of PySpark MLlib
+- [ ] PySpark ML libraries
+- [ ] PySpark MLlib algorithms
+- [ ] Collaborative filtering
+- [ ] Loading Movie Lens dataset into RDDs
+- [ ] Model training and predictions
+- [ ] Model evaluation using MSE
+- [ ] Classification
+- [ ] Loading spam and non-spam data
+- [ ] Feature hashing and LabelPoint
+- [ ] Logistic Regression model training
+- [ ] Clustering
+- [ ] Loading and parsing the 5000 points data
+- [ ] K-means training
+- [ ] Visualizing clusters
+
+
 # Cleaning Data with PySpark
 
 ### DataFrame details
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/1_dataframe_details)
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/1_dataframe_details)
 - [ ] A review of DataFrame fundamentals and the importance of data cleaning.
 - [ ] Intro to data cleaning with Apache Spark
 - [ ] Data cleaning review
@@ -77,7 +146,7 @@
 - [ ] SQL and Parquet
 
 ### Manipulating DataFrames in the real world
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/2_manipulating_dataframes_in_real_world)
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/2_manipulating_dataframes_in_real_world)
 - [ ] DataFrame column operations
 - [ ] Filtering column content with Python
 - [ ] Filtering Question #1
@@ -95,7 +164,7 @@
 - [ ] More ID tricks
 
 ### Improving Performance
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/3_improving_performance)
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/3_improving_performance)
 - [ ] Caching
 - [ ] Caching a DataFrame
 - [ ] Removing a DataFrame from cache
@@ -111,7 +180,7 @@
 - [ ] Comparing broadcast vs normal joins
 
 ### Complex processing and data pipelines
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/4_complex_processing_and_data_pipelines)
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/4_complex_processing_and_data_pipelines)
 - [ ] Introduction to data pipelines
 - [ ] Quick pipeline
 - [ ] Pipeline data issue
