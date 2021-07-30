@@ -65,6 +65,7 @@
 # Cleaning Data with PySpark
 
 ### DataFrame details
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/1_dataframe_details)
 - [ ] A review of DataFrame fundamentals and the importance of data cleaning.
 - [ ] Intro to data cleaning with Apache Spark
 - [ ] Data cleaning review
@@ -76,6 +77,7 @@
 - [ ] SQL and Parquet
 
 ### Manipulating DataFrames in the real world
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/2_manipulating_dataframes_in_real_world)
 - [ ] DataFrame column operations
 - [ ] Filtering column content with Python
 - [ ] Filtering Question #1
@@ -93,6 +95,7 @@
 - [ ] More ID tricks
 
 ### Improving Performance
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/3_improving_performance)
 - [ ] Caching
 - [ ] Caching a DataFrame
 - [ ] Removing a DataFrame from cache
@@ -108,7 +111,7 @@
 - [ ] Comparing broadcast vs normal joins
 
 ### Complex processing and data pipelines
-
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_cleaning_data_with_pyspark/4_complex_processing_and_data_pipelines)
 - [ ] Introduction to data pipelines
 - [ ] Quick pipeline
 - [ ] Pipeline data issue
@@ -124,14 +127,3 @@
 - [ ] Dog parsing
 - [ ] Per image count
 - [ ] Percentage dog pixels
-
-
-
-
-
-
-
-
-
-
-
