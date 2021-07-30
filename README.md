@@ -65,7 +65,7 @@
 # Big Data Fundamentals with PySpark
 
 ### Introduction to Big Data analysis with Spark
-
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/1_introduction_to_big_data)
 - [x] What is Big Data?
 - [x] The 3 V's of Big Data
 - [x] PySpark: Spark with Python
@@ -77,7 +77,7 @@
 - [x] Use of lambda() with filter()
 
 ### Programming in PySpark RDD’s
-
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/2_programming_pyspark_rdd)
 - [ ] Abstracting Data with RDDs
 - [ ] RDDs from Parallelized collections
 - [ ] RDDs from External Datasets
@@ -95,7 +95,7 @@
 - [ ] Print word frequencies
 
 ### PySpark SQL & DataFrames
-
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/3_pyspark_sql_and_df)
 - [ ] Abstracting Data with DataFrames
 - [ ] RDD to DataFrame
 - [ ] Loading CSV into DataFrame
@@ -114,6 +114,7 @@
 
 
 ### Machine Learning with PySpark MLlib
+[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/4_ml_with_mllib)
 - [ ] Overview of PySpark MLlib
 - [ ] PySpark ML libraries
 - [ ] PySpark MLlib algorithms
