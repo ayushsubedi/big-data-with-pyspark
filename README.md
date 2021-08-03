@@ -78,10 +78,10 @@
 
 ### Programming in PySpark RDD’s
 [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/2_programming_pyspark_rdd)
-- [ ] Abstracting Data with RDDs
-- [ ] RDDs from Parallelized collections
-- [ ] RDDs from External Datasets
-- [ ] Partitions in your data
+- [x] Abstracting Data with RDDs
+- [x] RDDs from Parallelized collections
+- [x] RDDs from External Datasets
+- [x] Partitions in your data
 - [ ] Basic RDD Transformations and Actions
 - [ ] Map and Collect
 - [ ] Filter and Count
