@@ -7,31 +7,31 @@
 ### Getting to know PySpark
 [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/1_getting_to_know_pyspark)
 
- - [x]	What is Spark, anyway?
- - [x]	Using Spark in Python
- - [x]	Examining The SparkContext
- - [x]	Using DataFrames
- - [x]	Creating a SparkSession
- - [x]	Viewing tables
- - [x]	Are you query-ious?
- - [x]	Pandafy a Spark DataFrame
- - [x]	Put some Spark in your data
- - [x]	Dropping the middle man
+ - [ ]	What is Spark, anyway?
+ - [ ]	Using Spark in Python
+ - [ ]	Examining The SparkContext
+ - [ ]	Using DataFrames
+ - [ ]	Creating a SparkSession
+ - [ ]	Viewing tables
+ - [ ]	Are you query-ious?
+ - [ ]	Pandafy a Spark DataFrame
+ - [ ]	Put some Spark in your data
+ - [ ]	Dropping the middle man
  
  ### Manipulating data 
  [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/2_manipulating_data)
- - [x]	Creating columns
- - [x]	SQL in a nutshell
- - [x]	SQL in a nutshell (2)
- - [x]	Filtering Data
- - [x]	Selecting
- - [x]	Selecting II
- - [x]	Aggregating
- - [x]	Aggregating II
- - [x]	Grouping and Aggregating I
- - [x]	Grouping and Aggregating II
- - [x]	Joining
- - [x]	Joining II
+ - [ ]	Creating columns
+ - [ ]	SQL in a nutshell
+ - [ ]	SQL in a nutshell (2)
+ - [ ]	Filtering Data
+ - [ ]	Selecting
+ - [ ]	Selecting II
+ - [ ]	Aggregating
+ - [ ]	Aggregating II
+ - [ ]	Grouping and Aggregating I
+ - [ ]	Grouping and Aggregating II
+ - [ ]	Joining
+ - [ ]	Joining II
 
 ### Getting started with machine learning pipelines
 [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/3_getting_started_with_machine_learning)
@@ -66,22 +66,22 @@
 
 ### Introduction to Big Data analysis with Spark
 [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/1_introduction_to_big_data)
-- [x] What is Big Data?
-- [x] The 3 V's of Big Data
-- [x] PySpark: Spark with Python
-- [x] Understanding SparkContext
-- [x] Interactive Use of PySpark
-- [x] Loading data in PySpark shell
-- [x] Review of functional programming in Python
-- [x] Use of lambda() with map()
-- [x] Use of lambda() with filter()
+- [ ] What is Big Data?
+- [ ] The 3 V's of Big Data
+- [ ] PySpark: Spark with Python
+- [ ] Understanding SparkContext
+- [ ] Interactive Use of PySpark
+- [ ] Loading data in PySpark shell
+- [ ] Review of functional programming in Python
+- [ ] Use of lambda() with map()
+- [ ] Use of lambda() with filter()
 
 ### Programming in PySpark RDD’s
 [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/2_programming_pyspark_rdd)
-- [x] Abstracting Data with RDDs
-- [x] RDDs from Parallelized collections
-- [x] RDDs from External Datasets
-- [x] Partitions in your data
+- [ ] Abstracting Data with RDDs
+- [ ] RDDs from Parallelized collections
+- [ ] RDDs from External Datasets
+- [ ] Partitions in your data
 - [ ] Basic RDD Transformations and Actions
 - [ ] Map and Collect
 - [ ] Filter and Count
