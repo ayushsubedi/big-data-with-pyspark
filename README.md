@@ -9,7 +9,7 @@
  - [x]	What is Spark, anyway?
  - [x]	Using Spark in Python
  - [x]	Examining The SparkContext
- - [ ]	Using DataFrames
+ - [x]	Using DataFrames
  - [ ]	Creating a SparkSession
  - [ ]	Viewing tables
  - [ ]	Are you query-ious?
