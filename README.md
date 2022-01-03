@@ -8,7 +8,7 @@
 
  - [x]	What is Spark, anyway?
  - [x]	Using Spark in Python
- - [ ]	Examining The SparkContext
+ - [x]	Examining The SparkContext
  - [ ]	Using DataFrames
  - [ ]	Creating a SparkSession
  - [ ]	Viewing tables
