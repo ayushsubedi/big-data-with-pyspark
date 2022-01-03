@@ -5,7 +5,6 @@
 ## Introducation to PySpark
 
 ### Getting to know PySpark
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/1_getting_to_know_pyspark)
 
  - [ ]	What is Spark, anyway?
  - [ ]	Using Spark in Python
@@ -19,7 +18,7 @@
  - [ ]	Dropping the middle man
  
  ### Manipulating data 
- [Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/2_manipulating_data)
+
  - [ ]	Creating columns
  - [ ]	SQL in a nutshell
  - [ ]	SQL in a nutshell (2)
@@ -34,7 +33,7 @@
  - [ ]	Joining II
 
 ### Getting started with machine learning pipelines
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/3_getting_started_with_machine_learning)
+
 - [ ]	Machine Learning Pipelines
 - [ ]	Join the DataFrames
 - [ ]	Data types
@@ -51,7 +50,7 @@
 - [ ]	Split the data
 
 ### Model tuning and selection
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/1_introduction_to_pyspark/4_model_tuning_and_selection)
+
 - [ ]	What is logistic regression?
 - [ ]	Create the modeler
 - [ ]	Cross validation
@@ -65,7 +64,7 @@
 # Big Data Fundamentals with PySpark
 
 ### Introduction to Big Data analysis with Spark
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/1_introduction_to_big_data)
+
 - [ ] What is Big Data?
 - [ ] The 3 V's of Big Data
 - [ ] PySpark: Spark with Python
@@ -77,7 +76,7 @@
 - [ ] Use of lambda() with filter()
 
 ### Programming in PySpark RDD’s
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/2_programming_pyspark_rdd)
+
 - [ ] Abstracting Data with RDDs
 - [ ] RDDs from Parallelized collections
 - [ ] RDDs from External Datasets
@@ -95,7 +94,7 @@
 - [ ] Print word frequencies
 
 ### PySpark SQL & DataFrames
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/3_pyspark_sql_and_df)
+
 - [ ] Abstracting Data with DataFrames
 - [ ] RDD to DataFrame
 - [ ] Loading CSV into DataFrame
@@ -114,7 +113,7 @@
 
 
 ### Machine Learning with PySpark MLlib
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/2_big_data_fundamentals/4_ml_with_mllib)
+
 - [ ] Overview of PySpark MLlib
 - [ ] PySpark ML libraries
 - [ ] PySpark MLlib algorithms
@@ -135,7 +134,7 @@
 # Cleaning Data with PySpark
 
 ### DataFrame details
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/1_dataframe_details)
+
 - [ ] A review of DataFrame fundamentals and the importance of data cleaning.
 - [ ] Intro to data cleaning with Apache Spark
 - [ ] Data cleaning review
@@ -147,7 +146,7 @@
 - [ ] SQL and Parquet
 
 ### Manipulating DataFrames in the real world
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/2_manipulating_dataframes_in_real_world)
+
 - [ ] DataFrame column operations
 - [ ] Filtering column content with Python
 - [ ] Filtering Question #1
@@ -165,7 +164,7 @@
 - [ ] More ID tricks
 
 ### Improving Performance
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/3_improving_performance)
+
 - [ ] Caching
 - [ ] Caching a DataFrame
 - [ ] Removing a DataFrame from cache
@@ -181,7 +180,7 @@
 - [ ] Comparing broadcast vs normal joins
 
 ### Complex processing and data pipelines
-[Link to Notebooks](https://github.com/ayushsubedi/big-data-with-pyspark/tree/main/notebooks/3_cleaning_data_with_pyspark/4_complex_processing_and_data_pipelines)
+
 - [ ] Introduction to data pipelines
 - [ ] Quick pipeline
 - [ ] Pipeline data issue
