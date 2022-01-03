@@ -22,7 +22,7 @@
  - [x]	Creating columns
  - [x]	SQL in a nutshell
  - [x]	SQL in a nutshell (2)
- - [ ]	Filtering Data
+ - [x]	Filtering Data
  - [ ]	Selecting
  - [ ]	Selecting II
  - [ ]	Aggregating
