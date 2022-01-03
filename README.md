@@ -7,7 +7,7 @@
 ### Getting to know PySpark
 
  - [x]	What is Spark, anyway?
- - [ ]	Using Spark in Python
+ - [x]	Using Spark in Python
  - [ ]	Examining The SparkContext
  - [ ]	Using DataFrames
  - [ ]	Creating a SparkSession
