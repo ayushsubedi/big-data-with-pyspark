@@ -25,7 +25,7 @@
  - [x]	Filtering Data
  - [x]	Selecting
  - [x]	Selecting II
- - [ ]	Aggregating
+ - [x]	Aggregating
  - [ ]	Aggregating II
  - [ ]	Grouping and Aggregating I
  - [ ]	Grouping and Aggregating II
