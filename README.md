@@ -19,7 +19,7 @@
  
  ### Manipulating data 
 
- - [ ]	Creating columns
+ - [x]	Creating columns
  - [ ]	SQL in a nutshell
  - [ ]	SQL in a nutshell (2)
  - [ ]	Filtering Data
