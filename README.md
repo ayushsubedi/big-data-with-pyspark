@@ -24,7 +24,7 @@
  - [x]	SQL in a nutshell (2)
  - [x]	Filtering Data
  - [x]	Selecting
- - [ ]	Selecting II
+ - [x]	Selecting II
  - [ ]	Aggregating
  - [ ]	Aggregating II
  - [ ]	Grouping and Aggregating I
