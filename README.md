@@ -23,7 +23,7 @@
  - [x]	SQL in a nutshell
  - [x]	SQL in a nutshell (2)
  - [x]	Filtering Data
- - [ ]	Selecting
+ - [x]	Selecting
  - [ ]	Selecting II
  - [ ]	Aggregating
  - [ ]	Aggregating II
