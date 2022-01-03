@@ -21,7 +21,7 @@
 
  - [x]	Creating columns
  - [x]	SQL in a nutshell
- - [ ]	SQL in a nutshell (2)
+ - [x]	SQL in a nutshell (2)
  - [ ]	Filtering Data
  - [ ]	Selecting
  - [ ]	Selecting II
