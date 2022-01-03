@@ -11,7 +11,7 @@
  - [x]	Examining The SparkContext
  - [x]	Using DataFrames
  - [x]	Creating a SparkSession
- - [ ]	Viewing tables
+ - [x]	Viewing tables
  - [ ]	Are you query-ious?
  - [ ]	Pandafy a Spark DataFrame
  - [ ]	Put some Spark in your data
