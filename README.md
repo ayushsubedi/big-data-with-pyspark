@@ -14,7 +14,7 @@
  - [x]	Viewing tables
  - [x]	Are you query-ious?
  - [x]	Pandafy a Spark DataFrame
- - [ ]	Put some Spark in your data
+ - [x]	Put some Spark in your data
  - [ ]	Dropping the middle man
  
  ### Manipulating data 
