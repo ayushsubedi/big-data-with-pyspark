@@ -10,7 +10,7 @@
  - [x]	Using Spark in Python
  - [x]	Examining The SparkContext
  - [x]	Using DataFrames
- - [ ]	Creating a SparkSession
+ - [x]	Creating a SparkSession
  - [ ]	Viewing tables
  - [ ]	Are you query-ious?
  - [ ]	Pandafy a Spark DataFrame
