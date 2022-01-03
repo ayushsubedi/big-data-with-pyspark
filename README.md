@@ -12,7 +12,7 @@
  - [x]	Using DataFrames
  - [x]	Creating a SparkSession
  - [x]	Viewing tables
- - [ ]	Are you query-ious?
+ - [x]	Are you query-ious?
  - [ ]	Pandafy a Spark DataFrame
  - [ ]	Put some Spark in your data
  - [ ]	Dropping the middle man
