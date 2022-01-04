@@ -43,7 +43,7 @@
 - [x]	Strings and factors
 - [x]	Carrier
 - [x]	Destination
-- [ ]	Assemble a vector
+- [x]	Assemble a vector
 - [ ]	Create the pipeline
 - [ ]	Test vs Train
 - [ ]	Transform the data
