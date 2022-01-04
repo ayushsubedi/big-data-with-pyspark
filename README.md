@@ -36,7 +36,7 @@
 
 - [x]	Machine Learning Pipelines
 - [x]	Join the DataFrames
-- [ ]	Data types
+- [x]	Data types
 - [ ]	String to integer
 - [ ]	Create a new column
 - [ ]	Making a Boolean
