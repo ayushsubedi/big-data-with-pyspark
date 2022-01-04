@@ -39,7 +39,7 @@
 - [x]	Data types
 - [x]	String to integer
 - [x]	Create a new column
-- [ ]	Making a Boolean
+- [x]	Making a Boolean
 - [ ]	Strings and factors
 - [ ]	Carrier
 - [ ]	Destination
