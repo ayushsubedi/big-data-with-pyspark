@@ -44,7 +44,7 @@
 - [x]	Carrier
 - [x]	Destination
 - [x]	Assemble a vector
-- [ ]	Create the pipeline
+- [x]	Create the pipeline
 - [ ]	Test vs Train
 - [ ]	Transform the data
 - [ ]	Split the data
