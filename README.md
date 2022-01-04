@@ -41,7 +41,7 @@
 - [x]	Create a new column
 - [x]	Making a Boolean
 - [x]	Strings and factors
-- [ ]	Carrier
+- [x]	Carrier
 - [ ]	Destination
 - [ ]	Assemble a vector
 - [ ]	Create the pipeline
