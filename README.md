@@ -40,7 +40,7 @@
 - [x]	String to integer
 - [x]	Create a new column
 - [x]	Making a Boolean
-- [ ]	Strings and factors
+- [x]	Strings and factors
 - [ ]	Carrier
 - [ ]	Destination
 - [ ]	Assemble a vector
