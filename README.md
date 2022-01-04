@@ -38,7 +38,7 @@
 - [x]	Join the DataFrames
 - [x]	Data types
 - [x]	String to integer
-- [ ]	Create a new column
+- [x]	Create a new column
 - [ ]	Making a Boolean
 - [ ]	Strings and factors
 - [ ]	Carrier
