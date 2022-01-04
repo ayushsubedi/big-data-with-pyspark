@@ -26,7 +26,7 @@
  - [x]	Selecting
  - [x]	Selecting II
  - [x]	Aggregating
- - [ ]	Aggregating II
+ - [x]	Aggregating II
  - [ ]	Grouping and Aggregating I
  - [ ]	Grouping and Aggregating II
  - [ ]	Joining
