@@ -47,7 +47,7 @@
 - [x]	Create the pipeline
 - [x]	Test vs Train
 - [x]	Transform the data
-- [ ]	Split the data
+- [x]	Split the data
 
 ### Model tuning and selection
 
