@@ -35,7 +35,7 @@
 ### Getting started with machine learning pipelines
 
 - [x]	Machine Learning Pipelines
-- [ ]	Join the DataFrames
+- [x]	Join the DataFrames
 - [ ]	Data types
 - [ ]	String to integer
 - [ ]	Create a new column
