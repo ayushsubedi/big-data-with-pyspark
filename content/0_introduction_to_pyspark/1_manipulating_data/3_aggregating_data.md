@@ -8,7 +8,7 @@ flights.filter(flights.origin == "PDX").groupBy().min("distance").show()
 flights.filter(flights.origin == "SEA").groupBy().max("air_time").show()
 ```
 
-
+# Aggregating data II
 ```
 # Average duration of Delta flights
 flights.filter(flights.origin == "SEA").filter(flights.carrier == "DL").groupBy().avg("air_time").show()
