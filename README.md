@@ -51,7 +51,7 @@
 
 ### Model tuning and selection
 
-- [ ]	What is logistic regression?
+- [x]	What is logistic regression?
 - [ ]	Create the modeler
 - [ ]	Cross validation
 - [ ]	Create the evaluator
