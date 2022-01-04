@@ -42,7 +42,7 @@
 - [x]	Making a Boolean
 - [x]	Strings and factors
 - [x]	Carrier
-- [ ]	Destination
+- [x]	Destination
 - [ ]	Assemble a vector
 - [ ]	Create the pipeline
 - [ ]	Test vs Train
