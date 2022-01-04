@@ -30,7 +30,7 @@
  - [x]	Grouping and Aggregating I
  - [x]	Grouping and Aggregating II
  - [x]	Joining
- - [ ]	Joining II
+ - [x]	Joining II
 
 ### Getting started with machine learning pipelines
 
