@@ -46,7 +46,7 @@
 - [x]	Assemble a vector
 - [x]	Create the pipeline
 - [x]	Test vs Train
-- [ ]	Transform the data
+- [x]	Transform the data
 - [ ]	Split the data
 
 ### Model tuning and selection
