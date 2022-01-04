@@ -45,7 +45,7 @@
 - [x]	Destination
 - [x]	Assemble a vector
 - [x]	Create the pipeline
-- [ ]	Test vs Train
+- [x]	Test vs Train
 - [ ]	Transform the data
 - [ ]	Split the data
 
