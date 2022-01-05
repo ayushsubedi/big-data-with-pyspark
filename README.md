@@ -68,7 +68,7 @@
 ### Introduction to Big Data analysis with Spark
 
 - [x] What is Big Data?
-- [ ] The 3 V's of Big Data
+- [x] The 3 V's of Big Data
 - [ ] PySpark: Spark with Python
 - [ ] Understanding SparkContext
 - [ ] Interactive Use of PySpark
