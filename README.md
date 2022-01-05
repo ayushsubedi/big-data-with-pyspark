@@ -57,7 +57,7 @@
 - [x]	Create the evaluator
 - [x]	Make a grid
 - [x]	Make the validator
-- [ ]	Fit the model(s)
+- [x]	Fit the model(s)
 - [ ]	Evaluating binary classifiers
 - [ ]	Evaluate the model
 
