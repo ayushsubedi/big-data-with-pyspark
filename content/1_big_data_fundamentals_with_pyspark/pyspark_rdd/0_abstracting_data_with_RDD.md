@@ -2,3 +2,5 @@
 
 - Resilient Distributed Datasets
 - SparkContext’s parallelize method or just import the dataset
+- Parallelized collection (parallelizing)
+
