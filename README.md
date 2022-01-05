@@ -8,16 +8,16 @@
 
 ### Getting to know PySpark
 
- - [x]	What is Spark, anyway?
- - [x]	Using Spark in Python
- - [x]	Examining The SparkContext
- - [x]	Using DataFrames
- - [x]	Creating a SparkSession
- - [x]	Viewing tables
- - [x]	Are you query-ious?
- - [x]	Pandafy a Spark DataFrame
- - [x]	Put some Spark in your data
- - [x]	Dropping the middle man
+- [x]	What is Spark, anyway?
+- [x]	Using Spark in Python
+- [x]	Examining The SparkContext
+- [x]	Using DataFrames
+- [x]	Creating a SparkSession
+- [x]	Viewing tables
+- [x]	Are you query-ious?
+- [x]	Pandafy a Spark DataFrame
+- [x]	Put some Spark in your data
+- [x]	Dropping the middle man
  
  ### Manipulating data 
 
