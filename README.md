@@ -52,7 +52,7 @@
 ### Model tuning and selection
 
 - [x]	What is logistic regression?
-- [ ]	Create the modeler
+- [x]	Create the modeler
 - [ ]	Cross validation
 - [ ]	Create the evaluator
 - [ ]	Make a grid
