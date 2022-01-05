@@ -80,7 +80,7 @@
 ### Programming in PySpark RDD’s
 
 - [x] Abstracting Data with RDDs
-- [ ] RDDs from Parallelized collections
+- [x] RDDs from Parallelized collections
 - [ ] RDDs from External Datasets
 - [ ] Partitions in your data
 - [ ] Basic RDD Transformations and Actions
