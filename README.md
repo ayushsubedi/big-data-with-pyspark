@@ -56,7 +56,7 @@
 - [x]	Cross validation
 - [x]	Create the evaluator
 - [x]	Make a grid
-- [ ]	Make the validator
+- [x]	Make the validator
 - [ ]	Fit the model(s)
 - [ ]	Evaluating binary classifiers
 - [ ]	Evaluate the model
