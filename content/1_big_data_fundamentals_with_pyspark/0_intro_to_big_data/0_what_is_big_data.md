@@ -5,8 +5,11 @@
 - Velocity
 - Variety
 
-Clustered computing
-Parallel computing
-Distributed computing
-Batch processing
-Real time processing
+
+
+# Terminology
+- Clustered computing
+- Parallel computing
+- Distributed computing
+- Batch processing
+- Real time processing
