@@ -2,7 +2,7 @@
 
 # Progress
 
-## Introducation to PySpark
+## Introduction to PySpark
 
 ### Getting to know PySpark
 
