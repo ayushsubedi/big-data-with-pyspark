@@ -70,7 +70,7 @@
 - [x] What is Big Data?
 - [x] The 3 V's of Big Data
 - [x] PySpark: Spark with Python
-- [ ] Understanding SparkContext
+- [x] Understanding SparkContext
 - [ ] Interactive Use of PySpark
 - [ ] Loading data in PySpark shell
 - [ ] Review of functional programming in Python
