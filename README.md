@@ -81,7 +81,7 @@
 
 - [x] Abstracting Data with RDDs
 - [x] RDDs from Parallelized collections
-- [ ] RDDs from External Datasets
+- [x] RDDs from External Datasets
 - [ ] Partitions in your data
 - [ ] Basic RDD Transformations and Actions
 - [ ] Map and Collect
