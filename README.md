@@ -85,7 +85,7 @@
 - [x] Partitions in your data
 - [x] Basic RDD Transformations and Actions
 - [x] Map and Collect
-- [ ] Filter and Count
+- [X] Filter and Count
 - [ ] Pair RDDs in PySpark
 - [ ] ReduceBykey and Collect
 - [ ] SortByKey and Collect
