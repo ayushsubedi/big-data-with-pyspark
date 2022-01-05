@@ -59,7 +59,7 @@
 - [x]	Make the validator
 - [x]	Fit the model(s)
 - [x]	Evaluating binary classifiers
-- [ ]	Evaluate the model
+- [x]	Evaluate the model
 
 # Big Data Fundamentals with PySpark
 
