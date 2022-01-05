@@ -71,7 +71,7 @@
 - [x] The 3 V's of Big Data
 - [x] PySpark: Spark with Python
 - [x] Understanding SparkContext
-- [ ] Interactive Use of PySpark
+- [x] Interactive Use of PySpark
 - [ ] Loading data in PySpark shell
 - [ ] Review of functional programming in Python
 - [ ] Use of lambda() with map()
