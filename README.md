@@ -84,7 +84,7 @@
 - [x] RDDs from External Datasets
 - [x] Partitions in your data
 - [x] Basic RDD Transformations and Actions
-- [ ] Map and Collect
+- [x] Map and Collect
 - [ ] Filter and Count
 - [ ] Pair RDDs in PySpark
 - [ ] ReduceBykey and Collect
