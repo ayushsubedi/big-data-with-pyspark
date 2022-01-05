@@ -53,15 +53,15 @@
 
 ### Model tuning and selection
 
-- [x]	What is logistic regression?
-- [x]	Create the modeler
-- [x]	Cross validation
-- [x]	Create the evaluator
-- [x]	Make a grid
-- [x]	Make the validator
-- [x]	Fit the model(s)
-- [x]	Evaluating binary classifiers
-- [x]	Evaluate the model
+- [x] What is logistic regression?
+- [x] Create the modeler
+- [x] Cross validation
+- [x] Create the evaluator
+- [x] Make a grid
+- [x] Make the validator
+- [x] Fit the model(s)
+- [x] Evaluating binary classifiers
+- [x] Evaluate the model
 
 # Big Data Fundamentals with PySpark
 
