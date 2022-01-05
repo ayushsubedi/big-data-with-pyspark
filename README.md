@@ -83,7 +83,7 @@
 - [x] RDDs from Parallelized collections
 - [x] RDDs from External Datasets
 - [x] Partitions in your data
-- [ ] Basic RDD Transformations and Actions
+- [x] Basic RDD Transformations and Actions
 - [ ] Map and Collect
 - [ ] Filter and Count
 - [ ] Pair RDDs in PySpark
