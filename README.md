@@ -74,7 +74,7 @@
 - [x] Interactive Use of PySpark
 - [x] Loading data in PySpark shell
 - [x] Review of functional programming in Python
-- [ ] Use of lambda() with map()
+- [x] Use of lambda() with map()
 - [ ] Use of lambda() with filter()
 
 ### Programming in PySpark RDD’s
