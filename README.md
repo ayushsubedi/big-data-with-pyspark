@@ -53,7 +53,7 @@
 
 - [x]	What is logistic regression?
 - [x]	Create the modeler
-- [ ]	Cross validation
+- [x]	Cross validation
 - [ ]	Create the evaluator
 - [ ]	Make a grid
 - [ ]	Make the validator
