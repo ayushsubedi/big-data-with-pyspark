@@ -58,7 +58,7 @@
 - [x]	Make a grid
 - [x]	Make the validator
 - [x]	Fit the model(s)
-- [ ]	Evaluating binary classifiers
+- [x]	Evaluating binary classifiers
 - [ ]	Evaluate the model
 
 # Big Data Fundamentals with PySpark
