@@ -21,18 +21,18 @@
  
  ### Manipulating data 
 
- - [x]	Creating columns
- - [x]	SQL in a nutshell
- - [x]	SQL in a nutshell (2)
- - [x]	Filtering Data
- - [x]	Selecting
- - [x]	Selecting II
- - [x]	Aggregating
- - [x]	Aggregating II
- - [x]	Grouping and Aggregating I
- - [x]	Grouping and Aggregating II
- - [x]	Joining
- - [x]	Joining II
+- [x]	Creating columns
+- [x]	SQL in a nutshell
+- [x]	SQL in a nutshell (2)
+- [x]	Filtering Data
+- [x]	Selecting
+- [x]	Selecting II
+- [x]	Aggregating
+- [x]	Aggregating II
+- [x]	Grouping and Aggregating I
+- [x]	Grouping and Aggregating II
+- [x]	Joining
+- [x]	Joining II
 
 ### Getting started with machine learning pipelines
 
