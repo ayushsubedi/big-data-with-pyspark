@@ -88,7 +88,7 @@
 - [x] Filter and Count
 - [x] Pair RDDs in PySpark
 - [x] ReduceBykey and Collect
-- [ ] SortByKey and Collect
+- [x] SortByKey and Collect
 - [ ] Advanced RDD Actions
 - [ ] CountingBykeys
 - [ ] Create a base RDD and transform it
