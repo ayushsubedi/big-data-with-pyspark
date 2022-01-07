@@ -87,7 +87,7 @@
 - [x] Map and Collect
 - [x] Filter and Count
 - [x] Pair RDDs in PySpark
-- [ ] ReduceBykey and Collect
+- [x] ReduceBykey and Collect
 - [ ] SortByKey and Collect
 - [ ] Advanced RDD Actions
 - [ ] CountingBykeys
