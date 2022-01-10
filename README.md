@@ -122,7 +122,7 @@
 - [x] Collaborative filtering
 - [x] Loading Movie Lens dataset into RDDs
 - [x] Model training and predictions
-- [ ] Model evaluation using MSE
+- [x] Model evaluation using MSE
 - [ ] Classification
 - [ ] Loading spam and non-spam data
 - [ ] Feature hashing and LabelPoint
