@@ -65,6 +65,8 @@
 
 # Big Data Fundamentals with PySpark
 
+[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/06530532e301ebca7a6b5507637918b1d61592b9)
+
 ### Introduction to Big Data analysis with Spark
 
 - [x] What is Big Data?
