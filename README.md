@@ -105,7 +105,7 @@
 - [x] PySpark DataFrame subsetting and cleaning
 - [x] Filtering your DataFrame
 - [x] Interacting with DataFrames using PySpark SQL
-- [ ] Running SQL Queries Programmatically
+- [x] Running SQL Queries Programmatically
 - [ ] SQL queries for filtering Table
 - [ ] Data Visualization in PySpark using DataFrames
 - [ ] PySpark DataFrame visualization
