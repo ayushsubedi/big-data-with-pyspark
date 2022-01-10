@@ -106,7 +106,7 @@
 - [x] Filtering your DataFrame
 - [x] Interacting with DataFrames using PySpark SQL
 - [x] Running SQL Queries Programmatically
-- [ ] SQL queries for filtering Table
+- [x] SQL queries for filtering Table
 - [ ] Data Visualization in PySpark using DataFrames
 - [ ] PySpark DataFrame visualization
 - [ ] Part 1: Create a DataFrame from CSV file
