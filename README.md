@@ -125,7 +125,7 @@
 - [x] Model evaluation using MSE
 - [x] Classification
 - [x] Loading spam and non-spam data
-- [ ] Feature hashing and LabelPoint
+- [x] Feature hashing and LabelPoint
 - [ ] Logistic Regression model training
 - [ ] Clustering
 - [ ] Loading and parsing the 5000 points data
