@@ -93,7 +93,7 @@
 - [x] CountingBykeys
 - [x] Create a base RDD and transform it
 - [x] Remove stop words and reduce the dataset
-- [ ] Print word frequencies
+- [x] Print word frequencies
 
 ### PySpark SQL & DataFrames
 
