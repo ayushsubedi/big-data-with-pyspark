@@ -121,7 +121,7 @@
 - [x] PySpark MLlib algorithms
 - [x] Collaborative filtering
 - [x] Loading Movie Lens dataset into RDDs
-- [ ] Model training and predictions
+- [x] Model training and predictions
 - [ ] Model evaluation using MSE
 - [ ] Classification
 - [ ] Loading spam and non-spam data
