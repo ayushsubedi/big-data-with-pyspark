@@ -92,7 +92,7 @@
 - [x] Advanced RDD Actions
 - [x] CountingBykeys
 - [x] Create a base RDD and transform it
-- [ ] Remove stop words and reduce the dataset
+- [x] Remove stop words and reduce the dataset
 - [ ] Print word frequencies
 
 ### PySpark SQL & DataFrames
