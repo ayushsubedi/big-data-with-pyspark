@@ -123,7 +123,7 @@
 - [x] Loading Movie Lens dataset into RDDs
 - [x] Model training and predictions
 - [x] Model evaluation using MSE
-- [ ] Classification
+- [x] Classification
 - [ ] Loading spam and non-spam data
 - [ ] Feature hashing and LabelPoint
 - [ ] Logistic Regression model training
