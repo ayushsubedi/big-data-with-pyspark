@@ -111,7 +111,7 @@
 - [x] PySpark DataFrame visualization
 - [x] Part 1: Create a DataFrame from CSV file
 - [x] Part 2: SQL Queries on DataFrame
-- [ ] Part 3: Data visualization
+- [x] Part 3: Data visualization
 
 
 ### Machine Learning with PySpark MLlib
