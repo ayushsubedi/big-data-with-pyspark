@@ -103,7 +103,7 @@
 - [x] Operating on DataFrames in PySpark
 - [x] Inspecting data in PySpark DataFrame
 - [x] PySpark DataFrame subsetting and cleaning
-- [ ] Filtering your DataFrame
+- [x] Filtering your DataFrame
 - [ ] Interacting with DataFrames using PySpark SQL
 - [ ] Running SQL Queries Programmatically
 - [ ] SQL queries for filtering Table
