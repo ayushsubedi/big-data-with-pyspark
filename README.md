@@ -124,7 +124,7 @@
 - [x] Model training and predictions
 - [x] Model evaluation using MSE
 - [x] Classification
-- [ ] Loading spam and non-spam data
+- [x] Loading spam and non-spam data
 - [ ] Feature hashing and LabelPoint
 - [ ] Logistic Regression model training
 - [ ] Clustering
