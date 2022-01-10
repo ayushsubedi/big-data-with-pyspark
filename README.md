@@ -126,7 +126,7 @@
 - [x] Classification
 - [x] Loading spam and non-spam data
 - [x] Feature hashing and LabelPoint
-- [ ] Logistic Regression model training
+- [x] Logistic Regression model training
 - [ ] Clustering
 - [ ] Loading and parsing the 5000 points data
 - [ ] K-means training
