@@ -99,7 +99,7 @@
 
 - [x] Abstracting Data with DataFrames
 - [x] RDD to DataFrame
-- [ ] Loading CSV into DataFrame
+- [x] Loading CSV into DataFrame
 - [ ] Operating on DataFrames in PySpark
 - [ ] Inspecting data in PySpark DataFrame
 - [ ] PySpark DataFrame subsetting and cleaning
