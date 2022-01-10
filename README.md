@@ -109,7 +109,7 @@
 - [x] SQL queries for filtering Table
 - [x] Data Visualization in PySpark using DataFrames
 - [x] PySpark DataFrame visualization
-- [ ] Part 1: Create a DataFrame from CSV file
+- [x] Part 1: Create a DataFrame from CSV file
 - [ ] Part 2: SQL Queries on DataFrame
 - [ ] Part 3: Data visualization
 
