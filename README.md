@@ -102,7 +102,7 @@
 - [x] Loading CSV into DataFrame
 - [x] Operating on DataFrames in PySpark
 - [x] Inspecting data in PySpark DataFrame
-- [ ] PySpark DataFrame subsetting and cleaning
+- [x] PySpark DataFrame subsetting and cleaning
 - [ ] Filtering your DataFrame
 - [ ] Interacting with DataFrames using PySpark SQL
 - [ ] Running SQL Queries Programmatically
