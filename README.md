@@ -129,7 +129,7 @@
 - [x] Logistic Regression model training
 - [x] Clustering
 - [x] Loading and parsing the 5000 points data
-- [ ] K-means training
+- [x] K-means training
 - [ ] Visualizing clusters
 
 
