@@ -116,7 +116,7 @@
 
 ### Machine Learning with PySpark MLlib
 
-- [ ] Overview of PySpark MLlib
+- [x] Overview of PySpark MLlib
 - [ ] PySpark ML libraries
 - [ ] PySpark MLlib algorithms
 - [ ] Collaborative filtering
