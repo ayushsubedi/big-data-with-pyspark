@@ -128,7 +128,7 @@
 - [x] Feature hashing and LabelPoint
 - [x] Logistic Regression model training
 - [x] Clustering
-- [ ] Loading and parsing the 5000 points data
+- [x] Loading and parsing the 5000 points data
 - [ ] K-means training
 - [ ] Visualizing clusters
 
