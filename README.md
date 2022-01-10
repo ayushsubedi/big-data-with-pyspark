@@ -98,7 +98,7 @@
 ### PySpark SQL & DataFrames
 
 - [x] Abstracting Data with DataFrames
-- [ ] RDD to DataFrame
+- [x] RDD to DataFrame
 - [ ] Loading CSV into DataFrame
 - [ ] Operating on DataFrames in PySpark
 - [ ] Inspecting data in PySpark DataFrame
