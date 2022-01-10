@@ -91,7 +91,7 @@
 - [x] SortByKey and Collect
 - [x] Advanced RDD Actions
 - [x] CountingBykeys
-- [ ] Create a base RDD and transform it
+- [x] Create a base RDD and transform it
 - [ ] Remove stop words and reduce the dataset
 - [ ] Print word frequencies
 
