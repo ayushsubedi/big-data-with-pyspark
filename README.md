@@ -119,7 +119,7 @@
 - [x] Overview of PySpark MLlib
 - [x] PySpark ML libraries
 - [x] PySpark MLlib algorithms
-- [ ] Collaborative filtering
+- [x] Collaborative filtering
 - [ ] Loading Movie Lens dataset into RDDs
 - [ ] Model training and predictions
 - [ ] Model evaluation using MSE
