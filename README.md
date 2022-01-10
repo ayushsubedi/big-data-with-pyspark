@@ -110,7 +110,7 @@
 - [x] Data Visualization in PySpark using DataFrames
 - [x] PySpark DataFrame visualization
 - [x] Part 1: Create a DataFrame from CSV file
-- [ ] Part 2: SQL Queries on DataFrame
+- [x] Part 2: SQL Queries on DataFrame
 - [ ] Part 3: Data visualization
 
 
