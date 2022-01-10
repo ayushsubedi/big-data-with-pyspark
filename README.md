@@ -89,7 +89,7 @@
 - [x] Pair RDDs in PySpark
 - [x] ReduceBykey and Collect
 - [x] SortByKey and Collect
-- [ ] Advanced RDD Actions
+- [x] Advanced RDD Actions
 - [ ] CountingBykeys
 - [ ] Create a base RDD and transform it
 - [ ] Remove stop words and reduce the dataset
