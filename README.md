@@ -130,7 +130,7 @@
 - [x] Clustering
 - [x] Loading and parsing the 5000 points data
 - [x] K-means training
-- [ ] Visualizing clusters
+- [x] Visualizing clusters
 
 
 # Cleaning Data with PySpark
