@@ -101,7 +101,7 @@
 - [x] RDD to DataFrame
 - [x] Loading CSV into DataFrame
 - [x] Operating on DataFrames in PySpark
-- [ ] Inspecting data in PySpark DataFrame
+- [x] Inspecting data in PySpark DataFrame
 - [ ] PySpark DataFrame subsetting and cleaning
 - [ ] Filtering your DataFrame
 - [ ] Interacting with DataFrames using PySpark SQL
