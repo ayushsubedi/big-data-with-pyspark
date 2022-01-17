@@ -144,7 +144,7 @@
 - [x] Data cleaning review
 - [x] Defining a schema
 - [x] Immutability and lazy processing
-- [ ] Immutability review
+- [x] Immutability review
 - [ ] Using lazy processing
 - [ ] Understanding Parquet
 - [ ] Saving a DataFrame in Parquet format
