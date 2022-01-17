@@ -140,8 +140,9 @@
 ### DataFrame details
 
 - [x] A review of DataFrame fundamentals and the importance of data cleaning.
-- [ ] Intro to data cleaning with Apache Spark
-- [ ] Data cleaning review
+- [x] Intro to data cleaning with Apache Spark
+- [x] Data cleaning review
+- [ ] Defining a schema
 - [ ] Immutability and lazy processing
 - [ ] Immutability review
 - [ ] Using lazy processing
