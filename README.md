@@ -147,7 +147,7 @@
 - [x] Immutability review
 - [x] Using lazy processing
 - [x] Understanding Parquet
-- [ ] Saving a DataFrame in Parquet format
+- [x] Saving a DataFrame in Parquet format
 - [ ] SQL and Parquet
 
 ### Manipulating DataFrames in the real world
