@@ -145,7 +145,7 @@
 - [x] Defining a schema
 - [x] Immutability and lazy processing
 - [x] Immutability review
-- [ ] Using lazy processing
+- [x] Using lazy processing
 - [ ] Understanding Parquet
 - [ ] Saving a DataFrame in Parquet format
 - [ ] SQL and Parquet
