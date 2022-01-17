@@ -148,7 +148,7 @@
 - [x] Using lazy processing
 - [x] Understanding Parquet
 - [x] Saving a DataFrame in Parquet format
-- [ ] SQL and Parquet
+- [x] SQL and Parquet
 
 ### Manipulating DataFrames in the real world
 
