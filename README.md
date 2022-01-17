@@ -143,7 +143,7 @@
 - [x] Intro to data cleaning with Apache Spark
 - [x] Data cleaning review
 - [x] Defining a schema
-- [ ] Immutability and lazy processing
+- [x] Immutability and lazy processing
 - [ ] Immutability review
 - [ ] Using lazy processing
 - [ ] Understanding Parquet
