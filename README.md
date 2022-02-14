@@ -166,7 +166,7 @@
 - [x] Partitioning and lazy processing
 - [x] Adding an ID Field
 - [x] IDs with different partitions
-- [ ] More ID tricks
+- [x] More ID tricks
 
 ### Improving Performance
 
