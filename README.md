@@ -161,7 +161,7 @@
 - [x] when() example
 - [x] When / Otherwise
 - [x] User defined functions
-- [ ] Understanding user defined functions
+- [x] Understanding user defined functions
 - [ ] Using user defined functions in Spark
 - [ ] Partitioning and lazy processing
 - [ ] Adding an ID Field
