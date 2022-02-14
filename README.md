@@ -162,7 +162,7 @@
 - [x] When / Otherwise
 - [x] User defined functions
 - [x] Understanding user defined functions
-- [ ] Using user defined functions in Spark
+- [x] Using user defined functions in Spark
 - [ ] Partitioning and lazy processing
 - [ ] Adding an ID Field
 - [ ] IDs with different partitions
