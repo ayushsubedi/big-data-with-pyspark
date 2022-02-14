@@ -152,7 +152,7 @@
 
 ### Manipulating DataFrames in the real world
 
-- [ ] DataFrame column operations
+- [x] DataFrame column operations
 - [ ] Filtering column content with Python
 - [ ] Filtering Question #1
 - [ ] Filtering Question #2
