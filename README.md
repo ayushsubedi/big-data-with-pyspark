@@ -155,7 +155,7 @@
 - [x] DataFrame column operations
 - [x] Filtering column content with Python
 - [x] Filtering Question #1
-- [ ] Filtering Question #2
+- [x] Filtering Question #2
 - [ ] Modifying DataFrame columns
 - [ ] Conditional DataFrame column operations
 - [ ] when() example
