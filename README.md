@@ -157,7 +157,7 @@
 - [x] Filtering Question #1
 - [x] Filtering Question #2
 - [x] Modifying DataFrame columns
-- [ ] Conditional DataFrame column operations
+- [x] Conditional DataFrame column operations
 - [ ] when() example
 - [ ] When / Otherwise
 - [ ] User defined functions
