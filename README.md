@@ -165,7 +165,7 @@
 - [x] Using user defined functions in Spark
 - [x] Partitioning and lazy processing
 - [x] Adding an ID Field
-- [ ] IDs with different partitions
+- [x] IDs with different partitions
 - [ ] More ID tricks
 
 ### Improving Performance
