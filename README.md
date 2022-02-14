@@ -160,7 +160,7 @@
 - [x] Conditional DataFrame column operations
 - [x] when() example
 - [x] When / Otherwise
-- [ ] User defined functions
+- [x] User defined functions
 - [ ] Understanding user defined functions
 - [ ] Using user defined functions in Spark
 - [ ] Partitioning and lazy processing
