@@ -163,7 +163,7 @@
 - [x] User defined functions
 - [x] Understanding user defined functions
 - [x] Using user defined functions in Spark
-- [ ] Partitioning and lazy processing
+- [x] Partitioning and lazy processing
 - [ ] Adding an ID Field
 - [ ] IDs with different partitions
 - [ ] More ID tricks
