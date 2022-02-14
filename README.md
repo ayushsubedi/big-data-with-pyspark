@@ -159,7 +159,7 @@
 - [x] Modifying DataFrame columns
 - [x] Conditional DataFrame column operations
 - [x] when() example
-- [ ] When / Otherwise
+- [x] When / Otherwise
 - [ ] User defined functions
 - [ ] Understanding user defined functions
 - [ ] Using user defined functions in Spark
