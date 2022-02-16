@@ -203,3 +203,23 @@
 - [x] Dog parsing
 - [x] Per image count
 - [x] Percentage dog pixels
+
+# Feature Engineering with PySpark
+
+### Exploratory Data Analysis
+
+- [ ] Where to Begin
+- [ ] Where to begin?
+- [ ] Check Version
+- [ ] Load in the data
+- [ ] Defining A Problem
+- [ ] What are we predicting?
+- [ ] Verifying Data Load
+- [ ] Verifying DataTypes
+- [ ] Visually Inspecting Data / EDA
+- [ ] Using Corr()
+- [ ] Using Visualizations: distplot
+- [ ] Using Visualizations: lmplot
+
+
+
