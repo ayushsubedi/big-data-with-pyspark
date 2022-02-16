@@ -137,6 +137,8 @@
 
 # Cleaning Data with PySpark
 
+[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)
+
 ### DataFrame details
 
 - [x] A review of DataFrame fundamentals and the importance of data cleaning.
