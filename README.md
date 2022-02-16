@@ -179,7 +179,7 @@
 - [x] Cluster configurations
 - [x] Reading Spark configurations
 - [x] Writing Spark configurations
-- [ ] Performance improvements
+- [x] Performance improvements
 - [ ] Normal joins
 - [ ] Using broadcasting on Spark joins
 - [ ] Comparing broadcast vs normal joins
