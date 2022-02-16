@@ -195,7 +195,7 @@
 - [x] Splitting into columns
 - [x] Further parsing
 - [x] Data validation
-- [ ] Validate rows via join
+- [x] Validate rows via join
 - [ ] Examining invalid rows
 - [ ] Final analysis and delivery
 - [ ] Dog parsing
