@@ -175,7 +175,7 @@
 - [x] Removing a DataFrame from cache
 - [x] Improve import performance
 - [x] File size optimization
-- [ ] File import performance
+- [x] File import performance
 - [ ] Cluster configurations
 - [ ] Reading Spark configurations
 - [ ] Writing Spark configurations
