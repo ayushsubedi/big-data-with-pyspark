@@ -311,3 +311,19 @@
 - [ ] Stop words and hashing
 - [ ] Training a spam classifier
 
+### Regression
+
+- [ ] One-Hot Encoding
+- [ ] Encoding flight origin
+- [ ] Encoding shirt sizes
+- [ ] Regression
+- [ ] Flight duration model: Just distance
+- [ ] Interpreting the coefficients
+- [ ] Flight duration model: Adding origin airport
+- [ ] Interpreting coefficients
+- [ ] Bucketing & Engineering
+- [ ] Bucketing departure time
+- [ ] Flight duration model: Adding departure time
+- [ ] Regularization
+- [ ] Flight duration model: More features!
+- [ ] Flight duration model: Regularisation!
