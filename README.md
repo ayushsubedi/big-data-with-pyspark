@@ -181,7 +181,7 @@
 - [x] Writing Spark configurations
 - [x] Performance improvements
 - [x] Normal joins
-- [ ] Using broadcasting on Spark joins
+- [x] Using broadcasting on Spark joins
 - [ ] Comparing broadcast vs normal joins
 
 ### Complex processing and data pipelines
