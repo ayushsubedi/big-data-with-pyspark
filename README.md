@@ -194,7 +194,7 @@
 - [x] Removing invalid rows
 - [x] Splitting into columns
 - [x] Further parsing
-- [ ] Data validation
+- [x] Data validation
 - [ ] Validate rows via join
 - [ ] Examining invalid rows
 - [ ] Final analysis and delivery
