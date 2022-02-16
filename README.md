@@ -189,7 +189,7 @@
 - [x] Introduction to data pipelines
 - [x] Quick pipeline
 - [x] Pipeline data issue
-- [ ] Data handling techniques
+- [x] Data handling techniques
 - [ ] Removing commented lines
 - [ ] Removing invalid rows
 - [ ] Splitting into columns
