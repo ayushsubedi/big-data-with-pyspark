@@ -240,3 +240,21 @@
 - [ ] Spark SQL Join
 - [ ] Checking for Bad Joins
 
+### Feature Engineering
+
+- [ ] Feature Generation
+- [ ] Differences
+- [ ] Ratios
+- [ ] Deeper Features
+- [ ] Time Features
+- [ ] Time Components
+- [ ] Joining On Time Components
+- [ ] Date Math
+- [ ] Extracting Features
+- [ ] Extracting Text to New Features
+- [ ] Splitting & Exploding
+- [ ] Pivot & Join
+- [ ] Binarizing, Bucketing & Encoding
+- [ ] Binarizing Day of Week
+- [ ] Bucketing
+- [ ] One Hot Encoding
