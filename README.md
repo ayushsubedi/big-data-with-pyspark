@@ -170,7 +170,7 @@
 
 ### Improving Performance
 
-- [ ] Caching
+- [x] Caching
 - [ ] Caching a DataFrame
 - [ ] Removing a DataFrame from cache
 - [ ] Improve import performance
