@@ -383,3 +383,21 @@
 - [ ] Build RMSE evaluator
 - [ ] Get RMSE
 
+### Recommending Movies
+
+- [ ] Introduction to the MovieLens dataset
+- [ ] Viewing the MovieLens Data
+- [ ] Calculate sparsity
+- [ ] The GroupBy and Filter methods
+- [ ] MovieLens Summary Statistics
+- [ ] View Schema
+- [ ] ALS model buildout on MovieLens Data
+- [ ] Create test/train splits and build your ALS model
+- [ ] Tell Spark how to tune your ALS model
+- [ ] Build your cross validation pipeline
+- [ ] Best Model and Best Model Parameters
+- [ ] Model Performance Evaluation
+- [ ] Generate predictions and calculate RMSE
+- [ ] Interpreting the RMSE
+- [ ] Do recommendations make sense
+
