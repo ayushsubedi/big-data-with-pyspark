@@ -176,7 +176,7 @@
 - [x] Improve import performance
 - [x] File size optimization
 - [x] File import performance
-- [ ] Cluster configurations
+- [x] Cluster configurations
 - [ ] Reading Spark configurations
 - [ ] Writing Spark configurations
 - [ ] Performance improvements
