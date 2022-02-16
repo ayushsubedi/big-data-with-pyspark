@@ -348,3 +348,19 @@
 - [ ] Evaluating Random Forest
 - [ ] Closing thoughts
 
+# Building Recommendation Engines with PySpark
+
+### Recommendations Are Everywhere
+
+- [ ] Why learn how to build recommendation engines?
+- [ ] See the power of a recommendation engine
+- [ ] Power of recommendation engines
+- [ ] Recommendation engine types and data types
+- [ ] Collaborative vs content-based filtering
+- [ ] Collaborative vs content based filtering part II
+- [ ] Implicit vs explicit data
+- [ ] Ratings data types
+- [ ] Uses for recommendation engines
+- [ ] Alternate uses of recommendation engines.
+- [ ] Confirm understanding of latent features
+
