@@ -192,7 +192,7 @@
 - [x] Data handling techniques
 - [x] Removing commented lines
 - [x] Removing invalid rows
-- [ ] Splitting into columns
+- [x] Splitting into columns
 - [ ] Further parsing
 - [ ] Data validation
 - [ ] Validate rows via join
