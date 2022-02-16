@@ -190,7 +190,7 @@
 - [x] Quick pipeline
 - [x] Pipeline data issue
 - [x] Data handling techniques
-- [ ] Removing commented lines
+- [x] Removing commented lines
 - [ ] Removing invalid rows
 - [ ] Splitting into columns
 - [ ] Further parsing
