@@ -193,7 +193,7 @@
 - [x] Removing commented lines
 - [x] Removing invalid rows
 - [x] Splitting into columns
-- [ ] Further parsing
+- [x] Further parsing
 - [ ] Data validation
 - [ ] Validate rows via join
 - [ ] Examining invalid rows
