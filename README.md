@@ -188,7 +188,7 @@
 
 - [x] Introduction to data pipelines
 - [x] Quick pipeline
-- [ ] Pipeline data issue
+- [x] Pipeline data issue
 - [ ] Data handling techniques
 - [ ] Removing commented lines
 - [ ] Removing invalid rows
