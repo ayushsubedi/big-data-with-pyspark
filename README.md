@@ -258,3 +258,22 @@
 - [ ] Binarizing Day of Week
 - [ ] Bucketing
 - [ ] One Hot Encoding
+
+### Building a Model
+
+- [ ] Choosing the Algorithm
+- [ ] Which MLlib Module?
+- [ ] Creating Time Splits
+- [ ] Adjusting Time Features
+- [ ] Feature Engineering Assumptions for RFR
+- [ ] Feature Engineering For Random Forests
+- [ ] Dropping Columns with Low Observations
+- [ ] Naively Handling Missing and Categorical Values
+- [ ] Building a Model
+- [ ] Building a Regression Model
+- [ ] Evaluating & Comparing Algorithms
+- [ ] Understanding Metrics
+- [ ] Interpreting, Saving & Loading
+- [ ] Interpreting Results
+- [ ] Saving & Loading Models
+- [ ] Final Thoughts
