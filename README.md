@@ -364,3 +364,22 @@
 - [ ] Alternate uses of recommendation engines.
 - [ ] Confirm understanding of latent features
 
+### How does ALS work?
+
+- [ ] Overview of matrix multiplication
+- [ ] Matrix multiplication
+- [ ] Matrix multiplication part II
+- [ ] Overview of matrix factorization
+- [ ] Matrix factorization
+- [ ] Non-negative matrix factorization
+- [ ] How ALS alternates to generate predictions
+- [ ] Estimating recommendations
+- [ ] RMSE as ALS alternates
+- [ ] Data preparation for Spark ALS
+- [ ] Correct format and distinct users
+- [ ] Assigning integer id's to movies
+- [ ] ALS parameters and hyperparameters
+- [ ] Build out an ALS model
+- [ ] Build RMSE evaluator
+- [ ] Get RMSE
+
