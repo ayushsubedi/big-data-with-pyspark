@@ -221,5 +221,22 @@
 - [ ] Using Visualizations: distplot
 - [ ] Using Visualizations: lmplot
 
+### Wrangling with Spark Functions
 
+- [ ] Dropping data
+- [ ] Dropping a list of columns
+- [ ] Using text filters to remove records
+- [ ] Filtering numeric fields conditionally
+- [ ] Adjusting Data
+- [ ] Custom Percentage Scaling
+- [ ] Scaling your scalers
+- [ ] Correcting Right Skew Data
+- [ ] Working with Missing Data
+- [ ] Visualizing Missing Data
+- [ ] Imputing Missing Data
+- [ ] Calculate Missing Percents
+- [ ] Getting More Data
+- [ ] A Dangerous Join
+- [ ] Spark SQL Join
+- [ ] Checking for Bad Joins
 
