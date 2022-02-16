@@ -187,7 +187,7 @@
 ### Complex processing and data pipelines
 
 - [x] Introduction to data pipelines
-- [ ] Quick pipeline
+- [x] Quick pipeline
 - [ ] Pipeline data issue
 - [ ] Data handling techniques
 - [ ] Removing commented lines
