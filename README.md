@@ -200,4 +200,4 @@
 - [x] Final analysis and delivery
 - [x] Dog parsing
 - [x] Per image count
-- [ ] Percentage dog pixels
+- [x] Percentage dog pixels
