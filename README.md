@@ -178,7 +178,7 @@
 - [x] File import performance
 - [x] Cluster configurations
 - [x] Reading Spark configurations
-- [ ] Writing Spark configurations
+- [x] Writing Spark configurations
 - [ ] Performance improvements
 - [ ] Normal joins
 - [ ] Using broadcasting on Spark joins
