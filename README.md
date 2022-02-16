@@ -198,6 +198,6 @@
 - [x] Validate rows via join
 - [x] Examining invalid rows
 - [x] Final analysis and delivery
-- [ ] Dog parsing
+- [x] Dog parsing
 - [ ] Per image count
 - [ ] Percentage dog pixels
