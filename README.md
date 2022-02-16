@@ -199,5 +199,5 @@
 - [x] Examining invalid rows
 - [x] Final analysis and delivery
 - [x] Dog parsing
-- [ ] Per image count
+- [x] Per image count
 - [ ] Percentage dog pixels
