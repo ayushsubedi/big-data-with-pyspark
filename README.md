@@ -327,3 +327,24 @@
 - [ ] Regularization
 - [ ] Flight duration model: More features!
 - [ ] Flight duration model: Regularisation!
+
+### Ensembles & Pipelines
+
+- [ ] Pipeline
+- [ ] Flight duration model: Pipeline stages
+- [ ] Flight duration model: Pipeline model
+- [ ] SMS spam pipeline
+- [ ] Cross-Validation
+- [ ] Cross validating simple flight duration model
+- [ ] Cross validating flight duration model pipeline
+- [ ] Grid Search
+- [ ] Optimizing flights linear regression
+- [ ] Dissecting the best flight duration model
+- [ ] SMS spam optimised
+- [ ] How many models for grid search?
+- [ ] Ensemble
+- [ ] Delayed flights with Gradient-Boosted Trees
+- [ ] Delayed flights with a Random Forest
+- [ ] Evaluating Random Forest
+- [ ] Closing thoughts
+
