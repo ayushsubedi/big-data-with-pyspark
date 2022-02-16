@@ -196,7 +196,7 @@
 - [x] Further parsing
 - [x] Data validation
 - [x] Validate rows via join
-- [ ] Examining invalid rows
+- [x] Examining invalid rows
 - [ ] Final analysis and delivery
 - [ ] Dog parsing
 - [ ] Per image count
