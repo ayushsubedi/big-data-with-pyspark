@@ -401,3 +401,19 @@
 - [ ] Interpreting the RMSE
 - [ ] Do recommendations make sense
 
+### What if you don't have customer ratings?
+
+- [ ] Introduction to the Million Songs Dataset
+- [ ] Confirm understanding of implicit rating concepts
+- [ ] MSD summary statistics
+- [ ] Grouped summary statistics
+- [ ] Add zeros
+- [ ] Evaluating implicit ratings models
+- [ ] Specify ALS hyperparameters
+- [ ] Build implicit models
+- [ ] Running a cross-validated implicit ALS model
+- [ ] Extracting parameters
+- [ ] Overview of binary, implicit ratings
+- [ ] Binary model performance
+- [ ] Recommendations from binary data
+- [ ] Course recap
