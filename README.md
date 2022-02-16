@@ -197,7 +197,7 @@
 - [x] Data validation
 - [x] Validate rows via join
 - [x] Examining invalid rows
-- [ ] Final analysis and delivery
+- [x] Final analysis and delivery
 - [ ] Dog parsing
 - [ ] Per image count
 - [ ] Percentage dog pixels
