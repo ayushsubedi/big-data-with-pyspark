@@ -292,3 +292,22 @@
 - [ ] Loading flights data
 - [ ] Loading SMS spam data
 
+### Classification
+
+- [ ] Data Preparation
+- [ ] Removing columns and rows
+- [ ] Column manipulation
+- [ ] Categorical columns
+- [ ] Assembling columns
+- [ ] Decision Tree
+- [ ] Train/test split
+- [ ] Build a Decision Tree
+- [ ] Evaluate the Decision Tree
+- [ ] Logistic Regression
+- [ ] Build a Logistic Regression model
+- [ ] Evaluate the Logistic Regression model
+- [ ] Turning Text into Tables
+- [ ] Punctuation, numbers and tokens
+- [ ] Stop words and hashing
+- [ ] Training a spam classifier
+
