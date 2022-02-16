@@ -172,7 +172,7 @@
 
 - [x] Caching
 - [x] Caching a DataFrame
-- [ ] Removing a DataFrame from cache
+- [x] Removing a DataFrame from cache
 - [ ] Improve import performance
 - [ ] File size optimization
 - [ ] File import performance
