@@ -180,7 +180,7 @@
 - [x] Reading Spark configurations
 - [x] Writing Spark configurations
 - [x] Performance improvements
-- [ ] Normal joins
+- [x] Normal joins
 - [ ] Using broadcasting on Spark joins
 - [ ] Comparing broadcast vs normal joins
 
