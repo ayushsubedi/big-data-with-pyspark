@@ -191,7 +191,7 @@
 - [x] Pipeline data issue
 - [x] Data handling techniques
 - [x] Removing commented lines
-- [ ] Removing invalid rows
+- [x] Removing invalid rows
 - [ ] Splitting into columns
 - [ ] Further parsing
 - [ ] Data validation
