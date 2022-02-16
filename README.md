@@ -182,7 +182,7 @@
 - [x] Performance improvements
 - [x] Normal joins
 - [x] Using broadcasting on Spark joins
-- [ ] Comparing broadcast vs normal joins
+- [x] Comparing broadcast vs normal joins
 
 ### Complex processing and data pipelines
 
