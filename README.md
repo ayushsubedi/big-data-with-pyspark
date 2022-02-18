@@ -16,7 +16,7 @@
 - [x] Verifying DataTypes
 - [x] Visually Inspecting Data / EDA
 - [x] Using Corr()
-- [ ] Using Visualizations: distplot
+- [x] Using Visualizations: distplot
 - [ ] Using Visualizations: lmplot
 
 ### Wrangling with Spark Functions
