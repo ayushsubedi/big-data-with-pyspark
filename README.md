@@ -208,8 +208,8 @@
 
 ### Exploratory Data Analysis
 
-- [ ] Where to Begin
-- [ ] Where to begin?
+- [x] Where to Begin
+- [x] Where to begin?
 - [ ] Check Version
 - [ ] Load in the data
 - [ ] Defining A Problem
