@@ -17,7 +17,7 @@
 - [x] Visually Inspecting Data / EDA
 - [x] Using Corr()
 - [x] Using Visualizations: distplot
-- [ ] Using Visualizations: lmplot
+- [x] Using Visualizations: lmplot
 
 ### Wrangling with Spark Functions
 
