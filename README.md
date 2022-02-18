@@ -211,7 +211,7 @@
 - [x] Where to Begin
 - [x] Where to begin?
 - [x] Check Version
-- [ ] Load in the data
+- [x] Load in the data
 - [ ] Defining A Problem
 - [ ] What are we predicting?
 - [ ] Verifying Data Load
