@@ -16,3 +16,12 @@ df = spark.read.parquet('Real_Estate.parq')
 # Print columns in dataframe
 print(df.columns)
 ```
+# EDA
+
+```
+# Select our dependent variable
+Y_df = df.select(['SALESCLOSEPRICE'])
+
+# Display summary statistics
+Y_df.describe().show()
+```
