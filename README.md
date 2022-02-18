@@ -212,7 +212,7 @@
 - [x] Where to begin?
 - [x] Check Version
 - [x] Load in the data
-- [ ] Defining A Problem
+- [x] Defining A Problem
 - [ ] What are we predicting?
 - [ ] Verifying Data Load
 - [ ] Verifying DataTypes
