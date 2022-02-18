@@ -13,7 +13,7 @@
 - [x] Defining A Problem
 - [x] What are we predicting?
 - [x] Verifying Data Load
-- [ ] Verifying DataTypes
+- [x] Verifying DataTypes
 - [ ] Visually Inspecting Data / EDA
 - [ ] Using Corr()
 - [ ] Using Visualizations: distplot
