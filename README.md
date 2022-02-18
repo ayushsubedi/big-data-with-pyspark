@@ -210,7 +210,7 @@
 
 - [x] Where to Begin
 - [x] Where to begin?
-- [ ] Check Version
+- [x] Check Version
 - [ ] Load in the data
 - [ ] Defining A Problem
 - [ ] What are we predicting?
