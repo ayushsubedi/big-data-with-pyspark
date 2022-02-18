@@ -15,7 +15,7 @@
 - [x] Verifying Data Load
 - [x] Verifying DataTypes
 - [x] Visually Inspecting Data / EDA
-- [ ] Using Corr()
+- [x] Using Corr()
 - [ ] Using Visualizations: distplot
 - [ ] Using Visualizations: lmplot
 
