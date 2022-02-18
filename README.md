@@ -11,7 +11,7 @@
 - [x] Check Version
 - [x] Load in the data
 - [x] Defining A Problem
-- [ ] What are we predicting?
+- [x] What are we predicting?
 - [ ] Verifying Data Load
 - [ ] Verifying DataTypes
 - [ ] Visually Inspecting Data / EDA
