@@ -99,3 +99,15 @@ from pyspark.sql.functions import skewness
 # Compute and print skewness of LISTPRICE
 print(df.agg({'LISTPRICE': 'skewness'}).collect())
 ```
+
+```
+# Select a the relevant columns and sample
+sample_df = df.select(['SALESCLOSEPRICE', 'LIVINGAREA']).sample(False, .5, 42)
+
+# Convert to pandas dataframe
+pandas_df = sample_df.toPandas()
+
+# Linear model plot of pandas_df
+sns.lmplot(x='LIVINGAREA', y='SALESCLOSEPRICE', data=pandas_df)
+plt.show()
+```
