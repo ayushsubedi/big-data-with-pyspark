@@ -12,7 +12,7 @@
 - [x] Load in the data
 - [x] Defining A Problem
 - [x] What are we predicting?
-- [ ] Verifying Data Load
+- [x] Verifying Data Load
 - [ ] Verifying DataTypes
 - [ ] Visually Inspecting Data / EDA
 - [ ] Using Corr()
