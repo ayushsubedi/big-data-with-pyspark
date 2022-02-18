@@ -82,3 +82,20 @@ for col in columns:
 
 print(corr_max_col)
 ```
+
+# plot
+```
+# Select a single column and sample and convert to pandas
+sample_df = df.select(['LISTPRICE']).sample(False, .5, 42)
+pandas_df = sample_df.toPandas()
+
+# Plot distribution of pandas_df and display plot
+sns.distplot(pandas_df)
+plt.show()
+
+# Import skewness function
+from pyspark.sql.functions import skewness
+
+# Compute and print skewness of LISTPRICE
+print(df.agg({'LISTPRICE': 'skewness'}).collect())
+```
