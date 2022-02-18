@@ -63,3 +63,22 @@ for attribute_tuple in actual_dtypes_list:
       print(col_name + ' has expected dtype.')
       
 ```
+
+# EDA
+```
+# Name and value of col with max corr
+corr_max = 0
+corr_max_col = columns[0]
+
+# Loop to check all columns contained in list
+for col in columns:
+    # Check the correlation of a pair of columns
+    corr_val = df.corr(col, 'SALESCLOSEPRICE')
+    # Logic to compare corr_max with current corr_val
+    if corr_val > corr_max:
+        # Update the column name and corr value
+        corr_max = corr_val
+        corr_max_col = col
+
+print(corr_max_col)
+```
