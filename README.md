@@ -34,7 +34,7 @@
 - [x] Imputing Missing Data
 - [x] Calculate Missing Percents
 - [x] Getting More Data
-- [ ] A Dangerous Join
+- [x] A Dangerous Join
 - [ ] Spark SQL Join
 - [ ] Checking for Bad Joins
 
