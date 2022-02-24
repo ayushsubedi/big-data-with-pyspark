@@ -28,7 +28,7 @@
 - [x] Adjusting Data
 - [x] Custom Percentage Scaling
 - [x] Scaling your scalers
-- [ ] Correcting Right Skew Data
+- [x] Correcting Right Skew Data
 - [ ] Working with Missing Data
 - [ ] Visualizing Missing Data
 - [ ] Imputing Missing Data
