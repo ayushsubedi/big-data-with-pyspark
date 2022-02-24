@@ -27,7 +27,7 @@
 - [x] Filtering numeric fields conditionally
 - [x] Adjusting Data
 - [x] Custom Percentage Scaling
-- [ ] Scaling your scalers
+- [x] Scaling your scalers
 - [ ] Correcting Right Skew Data
 - [ ] Working with Missing Data
 - [ ] Visualizing Missing Data
