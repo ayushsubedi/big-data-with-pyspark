@@ -30,7 +30,7 @@
 - [x] Scaling your scalers
 - [x] Correcting Right Skew Data
 - [x] Working with Missing Data
-- [ ] Visualizing Missing Data
+- [x] Visualizing Missing Data
 - [ ] Imputing Missing Data
 - [ ] Calculate Missing Percents
 - [ ] Getting More Data
