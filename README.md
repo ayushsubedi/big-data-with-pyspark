@@ -26,7 +26,7 @@
 - [x] Using text filters to remove records
 - [x] Filtering numeric fields conditionally
 - [x] Adjusting Data
-- [ ] Custom Percentage Scaling
+- [x] Custom Percentage Scaling
 - [ ] Scaling your scalers
 - [ ] Correcting Right Skew Data
 - [ ] Working with Missing Data
