@@ -21,7 +21,7 @@
 
 ### Wrangling with Spark Functions
 
-- [ ] Dropping data
+- [x] Dropping data
 - [ ] Dropping a list of columns
 - [ ] Using text filters to remove records
 - [ ] Filtering numeric fields conditionally
