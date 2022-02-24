@@ -29,7 +29,7 @@
 - [x] Custom Percentage Scaling
 - [x] Scaling your scalers
 - [x] Correcting Right Skew Data
-- [ ] Working with Missing Data
+- [x] Working with Missing Data
 - [ ] Visualizing Missing Data
 - [ ] Imputing Missing Data
 - [ ] Calculate Missing Percents
