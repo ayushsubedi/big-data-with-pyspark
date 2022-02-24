@@ -35,7 +35,7 @@
 - [x] Calculate Missing Percents
 - [x] Getting More Data
 - [x] A Dangerous Join
-- [ ] Spark SQL Join
+- [x] Spark SQL Join
 - [ ] Checking for Bad Joins
 
 ### Feature Engineering
