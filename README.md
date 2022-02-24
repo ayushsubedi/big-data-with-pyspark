@@ -32,7 +32,7 @@
 - [x] Working with Missing Data
 - [x] Visualizing Missing Data
 - [x] Imputing Missing Data
-- [ ] Calculate Missing Percents
+- [x] Calculate Missing Percents
 - [ ] Getting More Data
 - [ ] A Dangerous Join
 - [ ] Spark SQL Join
