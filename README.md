@@ -23,7 +23,7 @@
 
 - [x] Dropping data
 - [x] Dropping a list of columns
-- [ ] Using text filters to remove records
+- [x] Using text filters to remove records
 - [ ] Filtering numeric fields conditionally
 - [ ] Adjusting Data
 - [ ] Custom Percentage Scaling
