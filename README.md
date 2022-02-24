@@ -36,7 +36,7 @@
 - [x] Getting More Data
 - [x] A Dangerous Join
 - [x] Spark SQL Join
-- [ ] Checking for Bad Joins
+- [x] Checking for Bad Joins
 
 ### Feature Engineering
 
