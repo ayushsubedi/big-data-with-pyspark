@@ -33,7 +33,7 @@
 - [x] Visualizing Missing Data
 - [x] Imputing Missing Data
 - [x] Calculate Missing Percents
-- [ ] Getting More Data
+- [x] Getting More Data
 - [ ] A Dangerous Join
 - [ ] Spark SQL Join
 - [ ] Checking for Bad Joins
