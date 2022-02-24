@@ -31,7 +31,7 @@
 - [x] Correcting Right Skew Data
 - [x] Working with Missing Data
 - [x] Visualizing Missing Data
-- [ ] Imputing Missing Data
+- [x] Imputing Missing Data
 - [ ] Calculate Missing Percents
 - [ ] Getting More Data
 - [ ] A Dangerous Join
