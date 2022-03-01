@@ -51,9 +51,9 @@
 - [x] Extracting Features
 - [x] Extracting Text to New Features
 - [x] Splitting & Exploding
-- [ ] Pivot & Join
-- [ ] Binarizing, Bucketing & Encoding
-- [ ] Binarizing Day of Week
+- [x] Pivot & Join
+- [x] Binarizing, Bucketing & Encoding
+- [ x Binarizing Day of Week
 - [ ] Bucketing
 - [ ] One Hot Encoding
 
