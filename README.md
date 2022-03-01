@@ -44,7 +44,7 @@
 - [x] Differences
 - [x] Ratios
 - [x] Deeper Features
-- [ ] Time Features
+- [x] Time Features
 - [ ] Time Components
 - [ ] Joining On Time Components
 - [ ] Date Math
