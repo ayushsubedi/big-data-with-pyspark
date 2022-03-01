@@ -53,7 +53,7 @@
 - [x] Splitting & Exploding
 - [x] Pivot & Join
 - [x] Binarizing, Bucketing & Encoding
-- [ x Binarizing Day of Week
+- [x] Binarizing Day of Week
 - [ ] Bucketing
 - [ ] One Hot Encoding
 
