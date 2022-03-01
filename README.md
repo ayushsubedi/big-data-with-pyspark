@@ -49,7 +49,7 @@
 - [x] Joining On Time Components
 - [x] Date Math
 - [x] Extracting Features
-- [ ] Extracting Text to New Features
+- [x] Extracting Text to New Features
 - [ ] Splitting & Exploding
 - [ ] Pivot & Join
 - [ ] Binarizing, Bucketing & Encoding
