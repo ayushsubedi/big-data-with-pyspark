@@ -40,7 +40,7 @@
 
 ### Feature Engineering
 
-- [ ] Feature Generation
+- [x] Feature Generation
 - [ ] Differences
 - [ ] Ratios
 - [ ] Deeper Features
