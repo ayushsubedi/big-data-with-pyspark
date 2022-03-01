@@ -46,7 +46,7 @@
 - [x] Deeper Features
 - [x] Time Features
 - [x] Time Components
-- [ ] Joining On Time Components
+- [x] Joining On Time Components
 - [ ] Date Math
 - [ ] Extracting Features
 - [ ] Extracting Text to New Features
