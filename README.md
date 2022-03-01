@@ -59,22 +59,22 @@
 
 ### Building a Model
 
-- [ ] Choosing the Algorithm
-- [ ] Which MLlib Module?
-- [ ] Creating Time Splits
-- [ ] Adjusting Time Features
-- [ ] Feature Engineering Assumptions for RFR
-- [ ] Feature Engineering For Random Forests
-- [ ] Dropping Columns with Low Observations
-- [ ] Naively Handling Missing and Categorical Values
-- [ ] Building a Model
-- [ ] Building a Regression Model
-- [ ] Evaluating & Comparing Algorithms
-- [ ] Understanding Metrics
-- [ ] Interpreting, Saving & Loading
-- [ ] Interpreting Results
-- [ ] Saving & Loading Models
-- [ ] Final Thoughts
+- [x] Choosing the Algorithm
+- [x] Which MLlib Module?
+- [x] Creating Time Splits
+- [x] Adjusting Time Features
+- [x] Feature Engineering Assumptions for RFR
+- [x] Feature Engineering For Random Forests
+- [x] Dropping Columns with Low Observations
+- [x] Naively Handling Missing and Categorical Values
+- [x] Building a Model
+- [x] Building a Regression Model
+- [x] Evaluating & Comparing Algorithms
+- [x] Understanding Metrics
+- [x] Interpreting, Saving & Loading
+- [x] Interpreting Results
+- [x] Saving & Loading Models
+- [x] Final Thoughts
 
 # Machine Learning with PySpark
 
