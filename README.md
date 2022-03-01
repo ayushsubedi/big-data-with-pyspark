@@ -54,7 +54,7 @@
 - [x] Pivot & Join
 - [x] Binarizing, Bucketing & Encoding
 - [x] Binarizing Day of Week
-- [ ] Bucketing
+- [x] Bucketing
 - [ ] One Hot Encoding
 
 ### Building a Model
