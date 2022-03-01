@@ -42,7 +42,7 @@
 
 - [x] Feature Generation
 - [x] Differences
-- [ ] Ratios
+- [x] Ratios
 - [ ] Deeper Features
 - [ ] Time Features
 - [ ] Time Components
