@@ -45,7 +45,7 @@
 - [x] Ratios
 - [x] Deeper Features
 - [x] Time Features
-- [ ] Time Components
+- [x] Time Components
 - [ ] Joining On Time Components
 - [ ] Date Math
 - [ ] Extracting Features
