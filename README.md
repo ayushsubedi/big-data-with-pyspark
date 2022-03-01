@@ -50,7 +50,7 @@
 - [x] Date Math
 - [x] Extracting Features
 - [x] Extracting Text to New Features
-- [ ] Splitting & Exploding
+- [x] Splitting & Exploding
 - [ ] Pivot & Join
 - [ ] Binarizing, Bucketing & Encoding
 - [ ] Binarizing Day of Week
