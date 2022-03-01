@@ -47,7 +47,7 @@
 - [x] Time Features
 - [x] Time Components
 - [x] Joining On Time Components
-- [ ] Date Math
+- [x] Date Math
 - [ ] Extracting Features
 - [ ] Extracting Text to New Features
 - [ ] Splitting & Exploding
