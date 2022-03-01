@@ -55,7 +55,7 @@
 - [x] Binarizing, Bucketing & Encoding
 - [x] Binarizing Day of Week
 - [x] Bucketing
-- [ ] One Hot Encoding
+- [x] One Hot Encoding
 
 ### Building a Model
 
