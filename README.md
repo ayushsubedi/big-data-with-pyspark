@@ -107,44 +107,44 @@
 - [x] Turning Text into Tables
 - [x] Punctuation, numbers and tokens
 - [x] Stop words and hashing
-- [ ] Training a spam classifier
+- [x] Training a spam classifier
 
 ### Regression
 
-- [ ] One-Hot Encoding
-- [ ] Encoding flight origin
-- [ ] Encoding shirt sizes
-- [ ] Regression
-- [ ] Flight duration model: Just distance
-- [ ] Interpreting the coefficients
-- [ ] Flight duration model: Adding origin airport
-- [ ] Interpreting coefficients
-- [ ] Bucketing & Engineering
-- [ ] Bucketing departure time
-- [ ] Flight duration model: Adding departure time
-- [ ] Regularization
-- [ ] Flight duration model: More features!
-- [ ] Flight duration model: Regularisation!
+- [x] One-Hot Encoding
+- [x] Encoding flight origin
+- [x] Encoding shirt sizes
+- [x] Regression
+- [x] Flight duration model: Just distance
+- [x] Interpreting the coefficients
+- [x] Flight duration model: Adding origin airport
+- [x] Interpreting coefficients
+- [x] Bucketing & Engineering
+- [x] Bucketing departure time
+- [x] Flight duration model: Adding departure time
+- [x] Regularization
+- [x] Flight duration model: More features!
+- [x] Flight duration model: Regularisation!
 
 ### Ensembles & Pipelines
 
-- [ ] Pipeline
-- [ ] Flight duration model: Pipeline stages
-- [ ] Flight duration model: Pipeline model
-- [ ] SMS spam pipeline
-- [ ] Cross-Validation
-- [ ] Cross validating simple flight duration model
-- [ ] Cross validating flight duration model pipeline
-- [ ] Grid Search
-- [ ] Optimizing flights linear regression
-- [ ] Dissecting the best flight duration model
-- [ ] SMS spam optimised
-- [ ] How many models for grid search?
-- [ ] Ensemble
-- [ ] Delayed flights with Gradient-Boosted Trees
-- [ ] Delayed flights with a Random Forest
-- [ ] Evaluating Random Forest
-- [ ] Closing thoughts
+- [x] Pipeline
+- [x] Flight duration model: Pipeline stages
+- [x] Flight duration model: Pipeline model
+- [x] SMS spam pipeline
+- [x] Cross-Validation
+- [x] Cross validating simple flight duration model
+- [x] Cross validating flight duration model pipeline
+- [x] Grid Search
+- [x] Optimizing flights linear regression
+- [x] Dissecting the best flight duration model
+- [x] SMS spam optimised
+- [x] How many models for grid search?
+- [x] Ensemble
+- [x] Delayed flights with Gradient-Boosted Trees
+- [x] Delayed flights with a Random Forest
+- [x] Evaluating Random Forest
+- [x] Closing thoughts
 
 # Building Recommendation Engines with PySpark
 
