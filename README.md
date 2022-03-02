@@ -96,7 +96,7 @@
 - [x] Removing columns and rows
 - [x] Column manipulation
 - [x] Categorical columns
-- [ ] Assembling columns
+- [x] Assembling columns
 - [ ] Decision Tree
 - [ ] Train/test split
 - [ ] Build a Decision Tree
