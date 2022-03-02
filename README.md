@@ -103,7 +103,7 @@
 - [x] Evaluate the Decision Tree
 - [x] Logistic Regression
 - [x] Build a Logistic Regression model
-- [ ] Evaluate the Logistic Regression model
+- [x] Evaluate the Logistic Regression model
 - [ ] Turning Text into Tables
 - [ ] Punctuation, numbers and tokens
 - [ ] Stop words and hashing
