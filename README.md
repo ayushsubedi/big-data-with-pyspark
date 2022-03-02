@@ -86,7 +86,7 @@
 - [x] Connecting to Spark
 - [x] Location of Spark master
 - [x] Creating a SparkSession
-- [ ] Loading Data
+- [x] Loading Data
 - [ ] Loading flights data
 - [ ] Loading SMS spam data
 
