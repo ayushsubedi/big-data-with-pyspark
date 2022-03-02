@@ -98,7 +98,7 @@
 - [x] Categorical columns
 - [x] Assembling columns
 - [x] Decision Tree
-- [ ] Train/test split
+- [x] Train/test split
 - [ ] Build a Decision Tree
 - [ ] Evaluate the Decision Tree
 - [ ] Logistic Regression
