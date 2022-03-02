@@ -95,7 +95,7 @@
 - [x] Data Preparation
 - [x] Removing columns and rows
 - [x] Column manipulation
-- [ ] Categorical columns
+- [x] Categorical columns
 - [ ] Assembling columns
 - [ ] Decision Tree
 - [ ] Train/test split
