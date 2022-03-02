@@ -85,7 +85,7 @@
 - [x] Components in a Spark Cluster
 - [x] Connecting to Spark
 - [x] Location of Spark master
-- [ ] Creating a SparkSession
+- [x] Creating a SparkSession
 - [ ] Loading Data
 - [ ] Loading flights data
 - [ ] Loading SMS spam data
