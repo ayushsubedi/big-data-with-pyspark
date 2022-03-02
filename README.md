@@ -94,7 +94,7 @@
 
 - [x] Data Preparation
 - [x] Removing columns and rows
-- [ ] Column manipulation
+- [x] Column manipulation
 - [ ] Categorical columns
 - [ ] Assembling columns
 - [ ] Decision Tree
