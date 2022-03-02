@@ -102,7 +102,7 @@
 - [x] Build a Decision Tree
 - [x] Evaluate the Decision Tree
 - [x] Logistic Regression
-- [ ] Build a Logistic Regression model
+- [x] Build a Logistic Regression model
 - [ ] Evaluate the Logistic Regression model
 - [ ] Turning Text into Tables
 - [ ] Punctuation, numbers and tokens
