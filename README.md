@@ -99,7 +99,7 @@
 - [x] Assembling columns
 - [x] Decision Tree
 - [x] Train/test split
-- [ ] Build a Decision Tree
+- [x] Build a Decision Tree
 - [ ] Evaluate the Decision Tree
 - [ ] Logistic Regression
 - [ ] Build a Logistic Regression model
