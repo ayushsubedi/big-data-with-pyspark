@@ -93,7 +93,7 @@
 ### Classification
 
 - [x] Data Preparation
-- [ ] Removing columns and rows
+- [x] Removing columns and rows
 - [ ] Column manipulation
 - [ ] Categorical columns
 - [ ] Assembling columns
