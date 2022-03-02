@@ -84,7 +84,7 @@
 - [x] Characteristics of Spark
 - [x] Components in a Spark Cluster
 - [x] Connecting to Spark
-- [ ] Location of Spark master
+- [x] Location of Spark master
 - [ ] Creating a SparkSession
 - [ ] Loading Data
 - [ ] Loading flights data
