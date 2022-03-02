@@ -100,7 +100,7 @@
 - [x] Decision Tree
 - [x] Train/test split
 - [x] Build a Decision Tree
-- [ ] Evaluate the Decision Tree
+- [x] Evaluate the Decision Tree
 - [ ] Logistic Regression
 - [ ] Build a Logistic Regression model
 - [ ] Evaluate the Logistic Regression model
