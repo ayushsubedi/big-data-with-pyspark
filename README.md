@@ -87,7 +87,7 @@
 - [x] Location of Spark master
 - [x] Creating a SparkSession
 - [x] Loading Data
-- [ ] Loading flights data
+- [x] Loading flights data
 - [ ] Loading SMS spam data
 
 ### Classification
