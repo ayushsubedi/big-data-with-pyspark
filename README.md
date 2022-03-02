@@ -97,7 +97,7 @@
 - [x] Column manipulation
 - [x] Categorical columns
 - [x] Assembling columns
-- [ ] Decision Tree
+- [x] Decision Tree
 - [ ] Train/test split
 - [ ] Build a Decision Tree
 - [ ] Evaluate the Decision Tree
