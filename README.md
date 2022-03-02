@@ -81,7 +81,7 @@
 ### Introduction
 
 - [x] Machine Learning & Spark
-- [ ] Characteristics of Spark
+- [x] Characteristics of Spark
 - [ ] Components in a Spark Cluster
 - [ ] Connecting to Spark
 - [ ] Location of Spark master
