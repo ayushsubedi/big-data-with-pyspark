@@ -4,6 +4,76 @@
 
 # Feature Engineering with PySpark
 
+# Building Recommendation Engines with PySpark
+
+### Recommendations Are Everywhere
+
+- [ ] Why learn how to build recommendation engines?
+- [ ] See the power of a recommendation engine
+- [ ] Power of recommendation engines
+- [ ] Recommendation engine types and data types
+- [ ] Collaborative vs content-based filtering
+- [ ] Collaborative vs content based filtering part II
+- [ ] Implicit vs explicit data
+- [ ] Ratings data types
+- [ ] Uses for recommendation engines
+- [ ] Alternate uses of recommendation engines.
+- [ ] Confirm understanding of latent features
+
+### How does ALS work?
+
+- [ ] Overview of matrix multiplication
+- [ ] Matrix multiplication
+- [ ] Matrix multiplication part II
+- [ ] Overview of matrix factorization
+- [ ] Matrix factorization
+- [ ] Non-negative matrix factorization
+- [ ] How ALS alternates to generate predictions
+- [ ] Estimating recommendations
+- [ ] RMSE as ALS alternates
+- [ ] Data preparation for Spark ALS
+- [ ] Correct format and distinct users
+- [ ] Assigning integer id's to movies
+- [ ] ALS parameters and hyperparameters
+- [ ] Build out an ALS model
+- [ ] Build RMSE evaluator
+- [ ] Get RMSE
+
+### Recommending Movies
+
+- [ ] Introduction to the MovieLens dataset
+- [ ] Viewing the MovieLens Data
+- [ ] Calculate sparsity
+- [ ] The GroupBy and Filter methods
+- [ ] MovieLens Summary Statistics
+- [ ] View Schema
+- [ ] ALS model buildout on MovieLens Data
+- [ ] Create test/train splits and build your ALS model
+- [ ] Tell Spark how to tune your ALS model
+- [ ] Build your cross validation pipeline
+- [ ] Best Model and Best Model Parameters
+- [ ] Model Performance Evaluation
+- [ ] Generate predictions and calculate RMSE
+- [ ] Interpreting the RMSE
+- [ ] Do recommendations make sense
+
+### What if you don't have customer ratings?
+
+- [ ] Introduction to the Million Songs Dataset
+- [ ] Confirm understanding of implicit rating concepts
+- [ ] MSD summary statistics
+- [ ] Grouped summary statistics
+- [ ] Add zeros
+- [ ] Evaluating implicit ratings models
+- [ ] Specify ALS hyperparameters
+- [ ] Build implicit models
+- [ ] Running a cross-validated implicit ALS model
+- [ ] Extracting parameters
+- [ ] Overview of binary, implicit ratings
+- [ ] Binary model performance
+- [ ] Recommendations from binary data
+- [ ] Course recap
+
 ### Exploratory Data Analysis
 
 - [x] Where to Begin
@@ -78,6 +148,8 @@
 
 # Machine Learning with PySpark
 
+[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)
+
 ### Introduction
 
 - [x] Machine Learning & Spark
@@ -146,75 +218,7 @@
 - [x] Evaluating Random Forest
 - [x] Closing thoughts
 
-# Building Recommendation Engines with PySpark
 
-### Recommendations Are Everywhere
-
-- [ ] Why learn how to build recommendation engines?
-- [ ] See the power of a recommendation engine
-- [ ] Power of recommendation engines
-- [ ] Recommendation engine types and data types
-- [ ] Collaborative vs content-based filtering
-- [ ] Collaborative vs content based filtering part II
-- [ ] Implicit vs explicit data
-- [ ] Ratings data types
-- [ ] Uses for recommendation engines
-- [ ] Alternate uses of recommendation engines.
-- [ ] Confirm understanding of latent features
-
-### How does ALS work?
-
-- [ ] Overview of matrix multiplication
-- [ ] Matrix multiplication
-- [ ] Matrix multiplication part II
-- [ ] Overview of matrix factorization
-- [ ] Matrix factorization
-- [ ] Non-negative matrix factorization
-- [ ] How ALS alternates to generate predictions
-- [ ] Estimating recommendations
-- [ ] RMSE as ALS alternates
-- [ ] Data preparation for Spark ALS
-- [ ] Correct format and distinct users
-- [ ] Assigning integer id's to movies
-- [ ] ALS parameters and hyperparameters
-- [ ] Build out an ALS model
-- [ ] Build RMSE evaluator
-- [ ] Get RMSE
-
-### Recommending Movies
-
-- [ ] Introduction to the MovieLens dataset
-- [ ] Viewing the MovieLens Data
-- [ ] Calculate sparsity
-- [ ] The GroupBy and Filter methods
-- [ ] MovieLens Summary Statistics
-- [ ] View Schema
-- [ ] ALS model buildout on MovieLens Data
-- [ ] Create test/train splits and build your ALS model
-- [ ] Tell Spark how to tune your ALS model
-- [ ] Build your cross validation pipeline
-- [ ] Best Model and Best Model Parameters
-- [ ] Model Performance Evaluation
-- [ ] Generate predictions and calculate RMSE
-- [ ] Interpreting the RMSE
-- [ ] Do recommendations make sense
-
-### What if you don't have customer ratings?
-
-- [ ] Introduction to the Million Songs Dataset
-- [ ] Confirm understanding of implicit rating concepts
-- [ ] MSD summary statistics
-- [ ] Grouped summary statistics
-- [ ] Add zeros
-- [ ] Evaluating implicit ratings models
-- [ ] Specify ALS hyperparameters
-- [ ] Build implicit models
-- [ ] Running a cross-validated implicit ALS model
-- [ ] Extracting parameters
-- [ ] Overview of binary, implicit ratings
-- [ ] Binary model performance
-- [ ] Recommendations from binary data
-- [ ] Course recap
 
 ## Introduction to PySpark
 
