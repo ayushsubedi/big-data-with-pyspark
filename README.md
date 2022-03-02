@@ -80,7 +80,7 @@
 
 ### Introduction
 
-- [ ] Machine Learning & Spark
+- [x] Machine Learning & Spark
 - [ ] Characteristics of Spark
 - [ ] Components in a Spark Cluster
 - [ ] Connecting to Spark
