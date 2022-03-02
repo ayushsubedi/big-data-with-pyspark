@@ -106,7 +106,7 @@
 - [x] Evaluate the Logistic Regression model
 - [x] Turning Text into Tables
 - [x] Punctuation, numbers and tokens
-- [ ] Stop words and hashing
+- [x] Stop words and hashing
 - [ ] Training a spam classifier
 
 ### Regression
