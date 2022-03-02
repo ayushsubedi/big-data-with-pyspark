@@ -88,7 +88,7 @@
 - [x] Creating a SparkSession
 - [x] Loading Data
 - [x] Loading flights data
-- [ ] Loading SMS spam data
+- [x] Loading SMS spam data
 
 ### Classification
 
