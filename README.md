@@ -24,7 +24,7 @@
 - [x] Overview of matrix factorization
 - [x] Matrix factorization
 - [x] Non-negative matrix factorization
-- [ ] How ALS alternates to generate predictions
+- [x] How ALS alternates to generate predictions
 - [ ] Estimating recommendations
 - [ ] RMSE as ALS alternates
 - [ ] Data preparation for Spark ALS
