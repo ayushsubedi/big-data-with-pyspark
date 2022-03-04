@@ -27,7 +27,7 @@
 - [x] How ALS alternates to generate predictions
 - [x] Estimating recommendations
 - [x] RMSE as ALS alternates
-- [ ] Data preparation for Spark ALS
+- [x] Data preparation for Spark ALS
 - [ ] Correct format and distinct users
 - [ ] Assigning integer id's to movies
 - [ ] ALS parameters and hyperparameters
