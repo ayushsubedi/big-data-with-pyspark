@@ -33,7 +33,7 @@
 - [x] ALS parameters and hyperparameters
 - [x] Build out an ALS model
 - [x] Build RMSE evaluator
-- [ ] Get RMSE
+- [x] Get RMSE
 
 ### Recommending Movies
 
