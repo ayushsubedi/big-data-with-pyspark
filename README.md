@@ -11,7 +11,7 @@
 - [x] Collaborative vs content-based filtering
 - [x] Collaborative vs content based filtering part II
 - [x] Implicit vs explicit data
-- [ ] Ratings data types
+- [x] Ratings data types
 - [ ] Uses for recommendation engines
 - [ ] Alternate uses of recommendation engines.
 - [ ] Confirm understanding of latent features
