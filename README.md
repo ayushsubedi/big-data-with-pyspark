@@ -30,7 +30,7 @@
 - [x] Data preparation for Spark ALS
 - [x] Correct format and distinct users
 - [x] Assigning integer id's to movies
-- [ ] ALS parameters and hyperparameters
+- [x] ALS parameters and hyperparameters
 - [ ] Build out an ALS model
 - [ ] Build RMSE evaluator
 - [ ] Get RMSE
