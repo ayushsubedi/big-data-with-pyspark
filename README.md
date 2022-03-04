@@ -22,7 +22,7 @@
 - [x] Matrix multiplication
 - [x] Matrix multiplication part II
 - [x] Overview of matrix factorization
-- [ ] Matrix factorization
+- [x] Matrix factorization
 - [ ] Non-negative matrix factorization
 - [ ] How ALS alternates to generate predictions
 - [ ] Estimating recommendations
