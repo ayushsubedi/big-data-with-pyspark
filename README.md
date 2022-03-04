@@ -1,9 +1,5 @@
 # Big Data with PySpark
 
-# Progress
-
-# Feature Engineering with PySpark
-
 # Building Recommendation Engines with PySpark
 
 ### Recommendations Are Everywhere
@@ -73,6 +69,8 @@
 - [ ] Binary model performance
 - [ ] Recommendations from binary data
 - [ ] Course recap
+
+# Feature Engineering with PySpark
 
 ### Exploratory Data Analysis
 
