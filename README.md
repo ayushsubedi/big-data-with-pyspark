@@ -40,7 +40,7 @@
 - [x] Introduction to the MovieLens dataset
 - [x] Viewing the MovieLens Data
 - [x] Calculate sparsity
-- [ ] The GroupBy and Filter methods
+- [x] The GroupBy and Filter methods
 - [ ] MovieLens Summary Statistics
 - [ ] View Schema
 - [ ] ALS model buildout on MovieLens Data
