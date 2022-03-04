@@ -43,7 +43,7 @@
 - [x] The GroupBy and Filter methods
 - [x] MovieLens Summary Statistics
 - [x] View Schema
-- [ ] ALS model buildout on MovieLens Data
+- [x] ALS model buildout on MovieLens Data
 - [ ] Create test/train splits and build your ALS model
 - [ ] Tell Spark how to tune your ALS model
 - [ ] Build your cross validation pipeline
