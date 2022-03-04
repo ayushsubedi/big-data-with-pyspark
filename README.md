@@ -42,7 +42,7 @@
 - [x] Calculate sparsity
 - [x] The GroupBy and Filter methods
 - [x] MovieLens Summary Statistics
-- [ ] View Schema
+- [x] View Schema
 - [ ] ALS model buildout on MovieLens Data
 - [ ] Create test/train splits and build your ALS model
 - [ ] Tell Spark how to tune your ALS model
