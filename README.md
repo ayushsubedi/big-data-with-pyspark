@@ -5,7 +5,7 @@
 ### Recommendations Are Everywhere
 
 - [x] Why learn how to build recommendation engines?
-- [ ] See the power of a recommendation engine
+- [x] See the power of a recommendation engine
 - [ ] Power of recommendation engines
 - [ ] Recommendation engine types and data types
 - [ ] Collaborative vs content-based filtering
