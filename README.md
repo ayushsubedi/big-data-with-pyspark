@@ -18,7 +18,7 @@
 
 ### How does ALS work?
 
-- [ ] Overview of matrix multiplication
+- [x] Overview of matrix multiplication
 - [ ] Matrix multiplication
 - [ ] Matrix multiplication part II
 - [ ] Overview of matrix factorization
