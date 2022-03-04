@@ -31,7 +31,7 @@
 - [x] Correct format and distinct users
 - [x] Assigning integer id's to movies
 - [x] ALS parameters and hyperparameters
-- [ ] Build out an ALS model
+- [x] Build out an ALS model
 - [ ] Build RMSE evaluator
 - [ ] Get RMSE
 
