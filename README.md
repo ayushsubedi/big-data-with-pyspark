@@ -351,6 +351,8 @@
 
 # Building Recommendation Engines with PySpark
 
+[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/c45fe95859d06f3e33c35db73c52074f059c959b)
+
 ### Recommendations Are Everywhere
 
 - [x] Why learn how to build recommendation engines?
