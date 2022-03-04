@@ -2,6 +2,8 @@
 
 ## Introduction to PySpark
 
+![](https://github.com/ayushsubedi/big-data-with-pyspark/blob/main/images/certificate.png?raw=true)
+
 [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4f60910c39332bd0cad02155c50d018b08456f9c)
 
 ### Getting to know PySpark
