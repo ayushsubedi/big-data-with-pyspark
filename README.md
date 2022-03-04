@@ -41,7 +41,7 @@
 - [x] Viewing the MovieLens Data
 - [x] Calculate sparsity
 - [x] The GroupBy and Filter methods
-- [ ] MovieLens Summary Statistics
+- [x] MovieLens Summary Statistics
 - [ ] View Schema
 - [ ] ALS model buildout on MovieLens Data
 - [ ] Create test/train splits and build your ALS model
