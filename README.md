@@ -37,7 +37,7 @@
 
 ### Recommending Movies
 
-- [ ] Introduction to the MovieLens dataset
+- [x] Introduction to the MovieLens dataset
 - [ ] Viewing the MovieLens Data
 - [ ] Calculate sparsity
 - [ ] The GroupBy and Filter methods
