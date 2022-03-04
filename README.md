@@ -21,7 +21,7 @@
 - [x] Overview of matrix multiplication
 - [x] Matrix multiplication
 - [x] Matrix multiplication part II
-- [ ] Overview of matrix factorization
+- [x] Overview of matrix factorization
 - [ ] Matrix factorization
 - [ ] Non-negative matrix factorization
 - [ ] How ALS alternates to generate predictions
