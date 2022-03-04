@@ -20,7 +20,7 @@
 
 - [x] Overview of matrix multiplication
 - [x] Matrix multiplication
-- [ ] Matrix multiplication part II
+- [x] Matrix multiplication part II
 - [ ] Overview of matrix factorization
 - [ ] Matrix factorization
 - [ ] Non-negative matrix factorization
