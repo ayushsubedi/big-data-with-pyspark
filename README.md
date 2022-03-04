@@ -26,7 +26,7 @@
 - [x] Non-negative matrix factorization
 - [x] How ALS alternates to generate predictions
 - [x] Estimating recommendations
-- [ ] RMSE as ALS alternates
+- [x] RMSE as ALS alternates
 - [ ] Data preparation for Spark ALS
 - [ ] Correct format and distinct users
 - [ ] Assigning integer id's to movies
