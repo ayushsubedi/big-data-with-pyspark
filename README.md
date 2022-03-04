@@ -7,7 +7,7 @@
 - [x] Why learn how to build recommendation engines?
 - [x] See the power of a recommendation engine
 - [x] Power of recommendation engines
-- [ ] Recommendation engine types and data types
+- [x] Recommendation engine types and data types
 - [ ] Collaborative vs content-based filtering
 - [ ] Collaborative vs content based filtering part II
 - [ ] Implicit vs explicit data
