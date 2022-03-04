@@ -1,223 +1,5 @@
 # Big Data with PySpark
 
-# Building Recommendation Engines with PySpark
-
-### Recommendations Are Everywhere
-
-- [x] Why learn how to build recommendation engines?
-- [x] See the power of a recommendation engine
-- [x] Power of recommendation engines
-- [x] Recommendation engine types and data types
-- [x] Collaborative vs content-based filtering
-- [x] Collaborative vs content based filtering part II
-- [x] Implicit vs explicit data
-- [x] Ratings data types
-- [x] Uses for recommendation engines
-- [x] Alternate uses of recommendation engines.
-- [x] Confirm understanding of latent features
-
-### How does ALS work?
-
-- [x] Overview of matrix multiplication
-- [x] Matrix multiplication
-- [x] Matrix multiplication part II
-- [x] Overview of matrix factorization
-- [x] Matrix factorization
-- [x] Non-negative matrix factorization
-- [x] How ALS alternates to generate predictions
-- [x] Estimating recommendations
-- [x] RMSE as ALS alternates
-- [x] Data preparation for Spark ALS
-- [x] Correct format and distinct users
-- [x] Assigning integer id's to movies
-- [x] ALS parameters and hyperparameters
-- [x] Build out an ALS model
-- [x] Build RMSE evaluator
-- [x] Get RMSE
-
-### Recommending Movies
-
-- [x] Introduction to the MovieLens dataset
-- [x] Viewing the MovieLens Data
-- [x] Calculate sparsity
-- [x] The GroupBy and Filter methods
-- [x] MovieLens Summary Statistics
-- [x] View Schema
-- [x] ALS model buildout on MovieLens Data
-- [x] Create test/train splits and build your ALS model
-- [x] Tell Spark how to tune your ALS model
-- [x] Build your cross validation pipeline
-- [x] Best Model and Best Model Parameters
-- [x] Model Performance Evaluation
-- [x] Generate predictions and calculate RMSE
-- [x] Interpreting the RMSE
-- [x] Do recommendations make sense
-
-### What if you don't have customer ratings?
-
-- [x] Introduction to the Million Songs Dataset
-- [x] Confirm understanding of implicit rating concepts
-- [x] MSD summary statistics
-- [x] Grouped summary statistics
-- [x] Add zeros
-- [x] Evaluating implicit ratings models
-- [x] Specify ALS hyperparameters
-- [x] Build implicit models
-- [x] Running a cross-validated implicit ALS model
-- [x] Extracting parameters
-- [x] Overview of binary, implicit ratings
-- [x] Binary model performance
-- [x] Recommendations from binary data
-- [x] Course recap
-
-# Feature Engineering with PySpark
-
-### Exploratory Data Analysis
-
-- [x] Where to Begin
-- [x] Where to begin?
-- [x] Check Version
-- [x] Load in the data
-- [x] Defining A Problem
-- [x] What are we predicting?
-- [x] Verifying Data Load
-- [x] Verifying DataTypes
-- [x] Visually Inspecting Data / EDA
-- [x] Using Corr()
-- [x] Using Visualizations: distplot
-- [x] Using Visualizations: lmplot
-
-### Wrangling with Spark Functions
-
-- [x] Dropping data
-- [x] Dropping a list of columns
-- [x] Using text filters to remove records
-- [x] Filtering numeric fields conditionally
-- [x] Adjusting Data
-- [x] Custom Percentage Scaling
-- [x] Scaling your scalers
-- [x] Correcting Right Skew Data
-- [x] Working with Missing Data
-- [x] Visualizing Missing Data
-- [x] Imputing Missing Data
-- [x] Calculate Missing Percents
-- [x] Getting More Data
-- [x] A Dangerous Join
-- [x] Spark SQL Join
-- [x] Checking for Bad Joins
-
-### Feature Engineering
-
-- [x] Feature Generation
-- [x] Differences
-- [x] Ratios
-- [x] Deeper Features
-- [x] Time Features
-- [x] Time Components
-- [x] Joining On Time Components
-- [x] Date Math
-- [x] Extracting Features
-- [x] Extracting Text to New Features
-- [x] Splitting & Exploding
-- [x] Pivot & Join
-- [x] Binarizing, Bucketing & Encoding
-- [x] Binarizing Day of Week
-- [x] Bucketing
-- [x] One Hot Encoding
-
-### Building a Model
-
-- [x] Choosing the Algorithm
-- [x] Which MLlib Module?
-- [x] Creating Time Splits
-- [x] Adjusting Time Features
-- [x] Feature Engineering Assumptions for RFR
-- [x] Feature Engineering For Random Forests
-- [x] Dropping Columns with Low Observations
-- [x] Naively Handling Missing and Categorical Values
-- [x] Building a Model
-- [x] Building a Regression Model
-- [x] Evaluating & Comparing Algorithms
-- [x] Understanding Metrics
-- [x] Interpreting, Saving & Loading
-- [x] Interpreting Results
-- [x] Saving & Loading Models
-- [x] Final Thoughts
-
-# Machine Learning with PySpark
-
-[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)
-
-### Introduction
-
-- [x] Machine Learning & Spark
-- [x] Characteristics of Spark
-- [x] Components in a Spark Cluster
-- [x] Connecting to Spark
-- [x] Location of Spark master
-- [x] Creating a SparkSession
-- [x] Loading Data
-- [x] Loading flights data
-- [x] Loading SMS spam data
-
-### Classification
-
-- [x] Data Preparation
-- [x] Removing columns and rows
-- [x] Column manipulation
-- [x] Categorical columns
-- [x] Assembling columns
-- [x] Decision Tree
-- [x] Train/test split
-- [x] Build a Decision Tree
-- [x] Evaluate the Decision Tree
-- [x] Logistic Regression
-- [x] Build a Logistic Regression model
-- [x] Evaluate the Logistic Regression model
-- [x] Turning Text into Tables
-- [x] Punctuation, numbers and tokens
-- [x] Stop words and hashing
-- [x] Training a spam classifier
-
-### Regression
-
-- [x] One-Hot Encoding
-- [x] Encoding flight origin
-- [x] Encoding shirt sizes
-- [x] Regression
-- [x] Flight duration model: Just distance
-- [x] Interpreting the coefficients
-- [x] Flight duration model: Adding origin airport
-- [x] Interpreting coefficients
-- [x] Bucketing & Engineering
-- [x] Bucketing departure time
-- [x] Flight duration model: Adding departure time
-- [x] Regularization
-- [x] Flight duration model: More features!
-- [x] Flight duration model: Regularisation!
-
-### Ensembles & Pipelines
-
-- [x] Pipeline
-- [x] Flight duration model: Pipeline stages
-- [x] Flight duration model: Pipeline model
-- [x] SMS spam pipeline
-- [x] Cross-Validation
-- [x] Cross validating simple flight duration model
-- [x] Cross validating flight duration model pipeline
-- [x] Grid Search
-- [x] Optimizing flights linear regression
-- [x] Dissecting the best flight duration model
-- [x] SMS spam optimised
-- [x] How many models for grid search?
-- [x] Ensemble
-- [x] Delayed flights with Gradient-Boosted Trees
-- [x] Delayed flights with a Random Forest
-- [x] Evaluating Random Forest
-- [x] Closing thoughts
-
-
-
 ## Introduction to PySpark
 
 [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4f60910c39332bd0cad02155c50d018b08456f9c)
@@ -420,4 +202,220 @@
 - [x] Per image count
 - [x] Percentage dog pixels
 
+
+# Feature Engineering with PySpark
+
+### Exploratory Data Analysis
+
+- [x] Where to Begin
+- [x] Where to begin?
+- [x] Check Version
+- [x] Load in the data
+- [x] Defining A Problem
+- [x] What are we predicting?
+- [x] Verifying Data Load
+- [x] Verifying DataTypes
+- [x] Visually Inspecting Data / EDA
+- [x] Using Corr()
+- [x] Using Visualizations: distplot
+- [x] Using Visualizations: lmplot
+
+### Wrangling with Spark Functions
+
+- [x] Dropping data
+- [x] Dropping a list of columns
+- [x] Using text filters to remove records
+- [x] Filtering numeric fields conditionally
+- [x] Adjusting Data
+- [x] Custom Percentage Scaling
+- [x] Scaling your scalers
+- [x] Correcting Right Skew Data
+- [x] Working with Missing Data
+- [x] Visualizing Missing Data
+- [x] Imputing Missing Data
+- [x] Calculate Missing Percents
+- [x] Getting More Data
+- [x] A Dangerous Join
+- [x] Spark SQL Join
+- [x] Checking for Bad Joins
+
+### Feature Engineering
+
+- [x] Feature Generation
+- [x] Differences
+- [x] Ratios
+- [x] Deeper Features
+- [x] Time Features
+- [x] Time Components
+- [x] Joining On Time Components
+- [x] Date Math
+- [x] Extracting Features
+- [x] Extracting Text to New Features
+- [x] Splitting & Exploding
+- [x] Pivot & Join
+- [x] Binarizing, Bucketing & Encoding
+- [x] Binarizing Day of Week
+- [x] Bucketing
+- [x] One Hot Encoding
+
+### Building a Model
+
+- [x] Choosing the Algorithm
+- [x] Which MLlib Module?
+- [x] Creating Time Splits
+- [x] Adjusting Time Features
+- [x] Feature Engineering Assumptions for RFR
+- [x] Feature Engineering For Random Forests
+- [x] Dropping Columns with Low Observations
+- [x] Naively Handling Missing and Categorical Values
+- [x] Building a Model
+- [x] Building a Regression Model
+- [x] Evaluating & Comparing Algorithms
+- [x] Understanding Metrics
+- [x] Interpreting, Saving & Loading
+- [x] Interpreting Results
+- [x] Saving & Loading Models
+- [x] Final Thoughts
+
+# Machine Learning with PySpark
+
+[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)
+
+### Introduction
+
+- [x] Machine Learning & Spark
+- [x] Characteristics of Spark
+- [x] Components in a Spark Cluster
+- [x] Connecting to Spark
+- [x] Location of Spark master
+- [x] Creating a SparkSession
+- [x] Loading Data
+- [x] Loading flights data
+- [x] Loading SMS spam data
+
+### Classification
+
+- [x] Data Preparation
+- [x] Removing columns and rows
+- [x] Column manipulation
+- [x] Categorical columns
+- [x] Assembling columns
+- [x] Decision Tree
+- [x] Train/test split
+- [x] Build a Decision Tree
+- [x] Evaluate the Decision Tree
+- [x] Logistic Regression
+- [x] Build a Logistic Regression model
+- [x] Evaluate the Logistic Regression model
+- [x] Turning Text into Tables
+- [x] Punctuation, numbers and tokens
+- [x] Stop words and hashing
+- [x] Training a spam classifier
+
+### Regression
+
+- [x] One-Hot Encoding
+- [x] Encoding flight origin
+- [x] Encoding shirt sizes
+- [x] Regression
+- [x] Flight duration model: Just distance
+- [x] Interpreting the coefficients
+- [x] Flight duration model: Adding origin airport
+- [x] Interpreting coefficients
+- [x] Bucketing & Engineering
+- [x] Bucketing departure time
+- [x] Flight duration model: Adding departure time
+- [x] Regularization
+- [x] Flight duration model: More features!
+- [x] Flight duration model: Regularisation!
+
+### Ensembles & Pipelines
+
+- [x] Pipeline
+- [x] Flight duration model: Pipeline stages
+- [x] Flight duration model: Pipeline model
+- [x] SMS spam pipeline
+- [x] Cross-Validation
+- [x] Cross validating simple flight duration model
+- [x] Cross validating flight duration model pipeline
+- [x] Grid Search
+- [x] Optimizing flights linear regression
+- [x] Dissecting the best flight duration model
+- [x] SMS spam optimised
+- [x] How many models for grid search?
+- [x] Ensemble
+- [x] Delayed flights with Gradient-Boosted Trees
+- [x] Delayed flights with a Random Forest
+- [x] Evaluating Random Forest
+- [x] Closing thoughts
+
+# Building Recommendation Engines with PySpark
+
+### Recommendations Are Everywhere
+
+- [x] Why learn how to build recommendation engines?
+- [x] See the power of a recommendation engine
+- [x] Power of recommendation engines
+- [x] Recommendation engine types and data types
+- [x] Collaborative vs content-based filtering
+- [x] Collaborative vs content based filtering part II
+- [x] Implicit vs explicit data
+- [x] Ratings data types
+- [x] Uses for recommendation engines
+- [x] Alternate uses of recommendation engines.
+- [x] Confirm understanding of latent features
+
+### How does ALS work?
+
+- [x] Overview of matrix multiplication
+- [x] Matrix multiplication
+- [x] Matrix multiplication part II
+- [x] Overview of matrix factorization
+- [x] Matrix factorization
+- [x] Non-negative matrix factorization
+- [x] How ALS alternates to generate predictions
+- [x] Estimating recommendations
+- [x] RMSE as ALS alternates
+- [x] Data preparation for Spark ALS
+- [x] Correct format and distinct users
+- [x] Assigning integer id's to movies
+- [x] ALS parameters and hyperparameters
+- [x] Build out an ALS model
+- [x] Build RMSE evaluator
+- [x] Get RMSE
+
+### Recommending Movies
+
+- [x] Introduction to the MovieLens dataset
+- [x] Viewing the MovieLens Data
+- [x] Calculate sparsity
+- [x] The GroupBy and Filter methods
+- [x] MovieLens Summary Statistics
+- [x] View Schema
+- [x] ALS model buildout on MovieLens Data
+- [x] Create test/train splits and build your ALS model
+- [x] Tell Spark how to tune your ALS model
+- [x] Build your cross validation pipeline
+- [x] Best Model and Best Model Parameters
+- [x] Model Performance Evaluation
+- [x] Generate predictions and calculate RMSE
+- [x] Interpreting the RMSE
+- [x] Do recommendations make sense
+
+### What if you don't have customer ratings?
+
+- [x] Introduction to the Million Songs Dataset
+- [x] Confirm understanding of implicit rating concepts
+- [x] MSD summary statistics
+- [x] Grouped summary statistics
+- [x] Add zeros
+- [x] Evaluating implicit ratings models
+- [x] Specify ALS hyperparameters
+- [x] Build implicit models
+- [x] Running a cross-validated implicit ALS model
+- [x] Extracting parameters
+- [x] Overview of binary, implicit ratings
+- [x] Binary model performance
+- [x] Recommendations from binary data
+- [x] Course recap
 
