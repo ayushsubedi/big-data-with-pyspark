@@ -13,7 +13,7 @@
 - [x] Implicit vs explicit data
 - [x] Ratings data types
 - [x] Uses for recommendation engines
-- [ ] Alternate uses of recommendation engines.
+- [x] Alternate uses of recommendation engines.
 - [ ] Confirm understanding of latent features
 
 ### How does ALS work?
