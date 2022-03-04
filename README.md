@@ -9,7 +9,7 @@
 - [x] Power of recommendation engines
 - [x] Recommendation engine types and data types
 - [x] Collaborative vs content-based filtering
-- [ ] Collaborative vs content based filtering part II
+- [x] Collaborative vs content based filtering part II
 - [ ] Implicit vs explicit data
 - [ ] Ratings data types
 - [ ] Uses for recommendation engines
