@@ -32,7 +32,7 @@
 - [x] Assigning integer id's to movies
 - [x] ALS parameters and hyperparameters
 - [x] Build out an ALS model
-- [ ] Build RMSE evaluator
+- [x] Build RMSE evaluator
 - [ ] Get RMSE
 
 ### Recommending Movies
