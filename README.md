@@ -8,7 +8,7 @@
 
 ### Recommendations Are Everywhere
 
-- [ ] Why learn how to build recommendation engines?
+- [x] Why learn how to build recommendation engines?
 - [ ] See the power of a recommendation engine
 - [ ] Power of recommendation engines
 - [ ] Recommendation engine types and data types
