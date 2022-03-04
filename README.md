@@ -44,31 +44,31 @@
 - [x] MovieLens Summary Statistics
 - [x] View Schema
 - [x] ALS model buildout on MovieLens Data
-- [ ] Create test/train splits and build your ALS model
-- [ ] Tell Spark how to tune your ALS model
-- [ ] Build your cross validation pipeline
-- [ ] Best Model and Best Model Parameters
-- [ ] Model Performance Evaluation
-- [ ] Generate predictions and calculate RMSE
-- [ ] Interpreting the RMSE
-- [ ] Do recommendations make sense
+- [x] Create test/train splits and build your ALS model
+- [x] Tell Spark how to tune your ALS model
+- [x] Build your cross validation pipeline
+- [x] Best Model and Best Model Parameters
+- [x] Model Performance Evaluation
+- [x] Generate predictions and calculate RMSE
+- [x] Interpreting the RMSE
+- [x] Do recommendations make sense
 
 ### What if you don't have customer ratings?
 
-- [ ] Introduction to the Million Songs Dataset
-- [ ] Confirm understanding of implicit rating concepts
-- [ ] MSD summary statistics
-- [ ] Grouped summary statistics
-- [ ] Add zeros
-- [ ] Evaluating implicit ratings models
-- [ ] Specify ALS hyperparameters
-- [ ] Build implicit models
-- [ ] Running a cross-validated implicit ALS model
-- [ ] Extracting parameters
-- [ ] Overview of binary, implicit ratings
-- [ ] Binary model performance
-- [ ] Recommendations from binary data
-- [ ] Course recap
+- [x] Introduction to the Million Songs Dataset
+- [x] Confirm understanding of implicit rating concepts
+- [x] MSD summary statistics
+- [x] Grouped summary statistics
+- [x] Add zeros
+- [x] Evaluating implicit ratings models
+- [x] Specify ALS hyperparameters
+- [x] Build implicit models
+- [x] Running a cross-validated implicit ALS model
+- [x] Extracting parameters
+- [x] Overview of binary, implicit ratings
+- [x] Binary model performance
+- [x] Recommendations from binary data
+- [x] Course recap
 
 # Feature Engineering with PySpark
 
